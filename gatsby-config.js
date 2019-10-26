@@ -1,13 +1,14 @@
 module.exports = {
   siteMetadata: {
     title: "Bedstegamerlaptop",
+    siteUrl: "https://sharp-murdock-45828a.netlify.com",
     description:
       "Bedstegamerlaptop er hjemmesiden for dig som gerne vil have et overblik over de bedste gamer laptops på markedet."
   },
   plugins: [
     "gatsby-plugin-react-helmet",
+    "gatsby-plugin-sitemap",
     "gatsby-plugin-sass",
-    // "gatsby-plugin-sitemap",
     {
       // keep as first gatsby-source-filesystem plugin for gatsby image support
       resolve: "gatsby-source-filesystem",
