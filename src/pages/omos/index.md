@@ -1,6 +1,6 @@
 ---
 templateKey: "about-page"
-path: /about
+path: /omos
 title: Vores mål
 ---
 
