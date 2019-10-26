@@ -14,4 +14,5 @@ Nogle cookies kræves for at hjemmesiden kan fungere. Hjemmesiden fungerer ikke 
 #### Google Analytics
 
 Disse cookies giver os mulighed for at tælle besøgende og trafikkilder, så vi kan måle og forbedre ydeevnen af vores hjemmeside. De hjælper os med at finde ud af, hvilke sider der er mest og mindst populære samt hvordan de besøgende bevæger sig på siden.
-<a href="http://tools.google.com/dlpage/gaoptout">Klik her for at fravælge cookies fra Google Analytics</a>
+
+<a href="http://tools.google.com/dlpage/gaoptout">Klik her for at fravælge cookies fra Google Analytics.</a>
