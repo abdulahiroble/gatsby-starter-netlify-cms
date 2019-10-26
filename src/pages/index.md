@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Velkommen til bedstegamerlaptop
+image: /img/acer-nitro-51.jpg
+# heading: Velkommen bedstegamerlaptop
+subheading: Hjemmesiden for dig som gerne vil have et overblik over de bedste gamer laptops på markedet.
 mainpitch:
   title: Why Kaldi
   description: >
@@ -51,6 +51,7 @@ intro:
     java’s origin and support the farmers that grew it. We take coffee
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
+
 main:
   heading: Great coffee with no compromises
   description: >
