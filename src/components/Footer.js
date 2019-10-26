@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "gatsby";
-import CookieConsent, { Cookies } from "react-cookie-consent";
+// import CookieConsent, { Cookies } from "react-cookie-consent";
 
 import logo from "../img/logo5.png";
 // import facebook from "../img/social/facebook.svg";
@@ -113,7 +113,7 @@ const Footer = class extends React.Component {
             </div>
           </div>
         </div>
-        <CookieConsent
+        {/* <CookieConsent
           location="bottom"
           buttonText="Accepter cookies"
           cookieName="myAwesomeCookieName2"
@@ -133,7 +133,7 @@ const Footer = class extends React.Component {
             {" "}
             Læs mere om cookies
           </Link>
-        </CookieConsent>
+        </CookieConsent> */}
       </footer>
     );
   }
