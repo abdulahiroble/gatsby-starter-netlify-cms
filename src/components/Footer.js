@@ -1,13 +1,8 @@
 import React from "react";
 import { Link } from "gatsby";
-import CookieConsent, { Cookies } from "react-cookie-consent";
+import CookieConsent from "react-cookie-consent";
 
 import logo from "../img/logo5.png";
-// import facebook from "../img/social/facebook.svg";
-// import instagram from "../img/social/instagram.svg";
-// import twitter from "../img/social/twitter.svg";
-// import vimeo from "../img/social/vimeo.svg";
-
 const Footer = class extends React.Component {
   render() {
     return (
@@ -35,16 +30,6 @@ const Footer = class extends React.Component {
                         Om os
                       </Link>
                     </li>
-                    {/* <li>
-                      <Link className="navbar-item" to="/products">
-                        Products
-                      </Link>
-                    </li> */}
-                    {/* <li>
-                      <Link className="navbar-item" to="/contact/examples">
-                        Form Examples
-                      </Link>
-                    </li> */}
                     {/* <li>
                       <a
                         className="navbar-item"
@@ -79,37 +64,7 @@ const Footer = class extends React.Component {
                   </ul>
                 </section>
               </div>
-              <div className="column is-4 social">
-                {/* <a title="facebook" href="https://facebook.com">
-                  <img
-                    src={facebook}
-                    alt="Facebook"
-                    style={{ width: "1em", height: "1em" }}
-                  />
-                </a>
-                <a title="twitter" href="https://twitter.com">
-                  <img
-                    className="fas fa-lg"
-                    src={twitter}
-                    alt="Twitter"
-                    style={{ width: "1em", height: "1em" }}
-                  />
-                </a>
-                <a title="instagram" href="https://instagram.com">
-                  <img
-                    src={instagram}
-                    alt="Instagram"
-                    style={{ width: "1em", height: "1em" }}
-                  />
-                </a>
-                <a title="vimeo" href="https://vimeo.com">
-                  <img
-                    src={vimeo}
-                    alt="Vimeo"
-                    style={{ width: "1em", height: "1em" }}
-                  />
-                </a> */}
-              </div>
+              <div className="column is-4 social"></div>
             </div>
           </div>
         </div>
@@ -134,6 +89,19 @@ const Footer = class extends React.Component {
             Læs mere om cookies
           </Link>
         </CookieConsent>
+        <div>
+          Icons made by{" "}
+          <a
+            href="https://www.flaticon.com/authors/good-ware"
+            title="Good Ware"
+          >
+            Good Ware
+          </a>{" "}
+          from{" "}
+          <a href="https://www.flaticon.com/" title="Flaticon">
+            www.flaticon.com
+          </a>
+        </div>
       </footer>
     );
   }
