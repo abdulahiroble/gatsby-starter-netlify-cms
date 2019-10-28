@@ -1,6 +1,6 @@
 ---
 templateKey: "blog-post"
-title: "Top 10 Bedste Gaming Laptop 2019"
+title: "Top 10 Bedste Gamer Laptop 2019"
 date: 2019-01-04T15:04:10.000Z
 featuredpost: true
 featuredimage: /img/thumbnail.jpg
