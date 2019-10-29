@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Velkommen til bedstegamerlaptop
-image: /img/acer-nitro-51.jpg
+image: /img/acer.jpg
 # heading: Velkommen bedstegamerlaptop
 subheading: Hjemmesiden for dig som gerne vil have et overblik over de bedste gamer laptops på markedet.
 mainpitch:
