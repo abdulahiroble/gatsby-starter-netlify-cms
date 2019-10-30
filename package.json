@@ -34,6 +34,7 @@
     "react-cookie-consent": "^2.5.0",
     "react-dom": "^16.11.0",
     "react-helmet": "^5.2.1",
+    "remark-grid-tables": "^1.7.1",
     "uuid": "^3.3.3"
   },
   "keywords": [

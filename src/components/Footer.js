@@ -60,6 +60,9 @@ const Footer = class extends React.Component {
                       <Link className="navbar-item" to="/privatpolitik">
                         Privat Politik
                       </Link>
+                      <Link className="navbar-item" to="/disclaimer">
+                        Disclaimer
+                      </Link>
                     </li>
                   </ul>
                 </section>
@@ -89,7 +92,7 @@ const Footer = class extends React.Component {
             Læs mere om cookies
           </Link>
         </CookieConsent>
-        <div>
+        <div className="has-text-centered">
           Icons made by{" "}
           <a
             href="https://www.flaticon.com/authors/good-ware"

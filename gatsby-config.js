@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: "Bedstegamerlaptop",
-    siteUrl: "https://sharp-murdock-45828a.netlify.com",
+    siteUrl: "https://bedstegamerlaptop.dk",
     description:
       "Bedstegamerlaptop er hjemmesiden for dig som gerne vil have et overblik over de bedste gamer laptops på markedet."
   },
@@ -9,6 +9,13 @@ module.exports = {
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-sitemap",
     "gatsby-plugin-sass",
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        // replace "UA-XXXXXXXXX-X" with your own Tracking ID
+        trackingId: "UA-149019685-2"
+      }
+    },
     {
       // keep as first gatsby-source-filesystem plugin for gatsby image support
       resolve: "gatsby-source-filesystem",
