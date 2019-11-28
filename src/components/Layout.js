@@ -120,13 +120,10 @@ const TemplateWrapper = ({ children }) => {
         <meta name="msapplication-TileImage" content="/ms-icon-144x144.png" />
         <meta name="theme-color" content="#ffffff" />
 
-        <meta property="og:type" content="business.business" />
+        <meta property="og:type" content="bedstegamerlaptop" />
         <meta property="og:title" content={title} />
         <meta property="og:url" content="/" />
-        <meta
-          property="og:image"
-          content={`${withPrefix("/")}img/og-image.jpg`}
-        />
+        <meta property="og:image" content={`${withPrefix("/")}img/thumb.png`} />
       </Helmet>
       <Navbar />
       <div>{children}</div>
