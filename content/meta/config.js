@@ -12,8 +12,8 @@ module.exports = {
   authorTwitterAccount: "greglobinski",
 
   /* info */
-  headerTitle: "greg lobinski",
-  headerSubTitle: "presents another one GatsbyJS starter",
+  headerTitle: "bedsteeboglaeser.dk",
+  // headerSubTitle: "presents another one GatsbyJS starter",
 
   /* manifest.json */
   manifestName: "HeroBlog - a GatsbyJS starter",
@@ -32,8 +32,8 @@ module.exports = {
 
   // social
   authorSocialLinks: [
-    { name: "github", url: "https://github.com/greglobinski" },
-    { name: "twitter", url: "https://twitter.com/greglobinski" },
-    { name: "facebook", url: "http://facebook.com/greglobinski" }
+    // { name: "github", url: "https://github.com/greglobinski" },
+    // { name: "twitter", url: "https://twitter.com/greglobinski" },
+    // { name: "facebook", url: "http://facebook.com/greglobinski" }
   ]
 };
