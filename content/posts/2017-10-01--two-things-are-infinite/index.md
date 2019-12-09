@@ -1,5 +1,5 @@
 ---
-title: Top 5 Bedste E-boglæser
+title: Bedste E-boglæser
 cover: kindle-3.jpg
 ---
 
