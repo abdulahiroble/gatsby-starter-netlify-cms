@@ -20,7 +20,7 @@ const NextPrev = props => {
 
   return (
     <React.Fragment>
-      <div className="links">
+      {/* <div className="links">
         {nextSlug && (
           <Link to={nextSlug}>
             <FaArrowRight />
@@ -37,7 +37,7 @@ const NextPrev = props => {
             </h4>
           </Link>
         )}
-      </div>
+      </div> */}
 
       {/* --- STYLES --- */}
       <style jsx>{`
