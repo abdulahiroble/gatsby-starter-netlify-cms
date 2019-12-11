@@ -2,5 +2,5 @@
 title: Success
 ---
 
-Thank you. <br />
-I will answer to your message as soon as possible.
+Tak. <br />
+De vil blive kontaktet snarest.
