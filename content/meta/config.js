@@ -1,15 +1,15 @@
 module.exports = {
-  siteTitle: "HeroBlog - a GatsbyJS starter", // <title>
+  siteTitle: "Bedste E-bøger - Find din favorit e-bog her", // <title>
   shortSiteTitle: "HeroBlog - GatsbyJS starter", // <title> ending for posts and pages
-  siteDescription: "HeroBlog is a GatsbyJS starter.",
+  siteDescription: "Find din næste e-bog her",
   siteUrl: "https://gatsby-starter-hero-blog.greglobinski.com",
   // pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
 
   /* author */
-  authorName: "greg lobinski",
-  authorTwitterAccount: "greglobinski",
+  // authorName: "greg lobinski",
+  // authorTwitterAccount: "greglobinski",
 
   /* info */
   headerTitle: "bedsteeboglaeser.dk",
