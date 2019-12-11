@@ -1,5 +1,5 @@
 ---
-title: About
+title: Om os
 ---
 
 bedsteboglæser er hjemmesiden for dig som gerne vil havde et godt overblik over de bedste eboglæsere på markedet.

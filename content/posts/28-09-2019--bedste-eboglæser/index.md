@@ -1,5 +1,5 @@
 ---
-title: Bedste E-boglæser
+title: Bedste E-boglæser 2019
 cover: kindle-3.jpg
 ---
 
