@@ -1,10 +1,10 @@
 module.exports = {
   siteTitle: "Bedste E-bøger - Find din favorit e-bog her", // <title>
-  shortSiteTitle: "HeroBlog - GatsbyJS starter", // <title> ending for posts and pages
+  shortSiteTitle: "bedsteeboglæser.dk", // <title> ending for posts and pages
   siteDescription: "Find din næste e-bog her",
   siteUrl: "https://gatsby-starter-hero-blog.greglobinski.com",
   // pathPrefix: "",
-  siteImage: "preview.jpg",
+  // siteImage: "preview.jpg",
   siteLanguage: "en",
 
   /* author */
@@ -16,8 +16,8 @@ module.exports = {
   // headerSubTitle: "presents another one GatsbyJS starter",
 
   /* manifest.json */
-  manifestName: "HeroBlog - a GatsbyJS starter",
-  manifestShortName: "HeroBlog", // max 12 characters
+  manifestName: "Bedste E-bøger - Find din favorit e-bog her",
+  manifestShortName: "bedsteeboglæser.dk", // max 12 characters
   manifestStartUrl: "/index.html",
   manifestBackgroundColor: "white",
   manifestThemeColor: "#666",
