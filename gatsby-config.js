@@ -57,6 +57,9 @@ module.exports = {
       }
     },
     {
+      resolve: `gatsby-plugin-remove-serviceworker`
+    },
+    {
       resolve: `gatsby-plugin-algolia`,
       options: {
         appId: process.env.ALGOLIA_APP_ID ? process.env.ALGOLIA_APP_ID : "",
@@ -190,7 +193,6 @@ module.exports = {
         ]
       }
     },
-    `gatsby-plugin-offline`,
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
