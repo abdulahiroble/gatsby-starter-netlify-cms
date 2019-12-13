@@ -1,5 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
+import { Link } from "gatsby";
+import CookieConsent from "react-cookie-consent";
 
 const Footer = props => {
   const { html, theme } = props;
@@ -7,6 +9,23 @@ const Footer = props => {
   return (
     <React.Fragment>
       <footer className="footer" dangerouslySetInnerHTML={{ __html: html }} />
+      <CookieConsent
+        location="bottom"
+        buttonText="Accepter cookies"
+        cookieName="myAwesomeCookieName2"
+        style={{ background: "#2B373B" }}
+        buttonStyle={{ color: "#4e503b", fontSize: "13px" }}
+        expires={150}
+      >
+        Vi bruger cookies til, at få vores hjemmeside til at virke ordentligt, personalisere indhold
+        og reklamer, tilbyde funktioner i forhold til sociale medier og analysere vores traffik. Vi
+        deler også information vedrørende din brug af vores hjemmeside med analytiske
+        samarbejdspartnere.
+        <Link to="/cookies" style={{ textDecoration: "none", color: "yellow" }}>
+          {" "}
+          Læs mere om cookies
+        </Link>
+      </CookieConsent>
 
       {/* --- STYLES --- */}
       <style jsx>{`
