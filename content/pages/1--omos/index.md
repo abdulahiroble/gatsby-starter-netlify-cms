@@ -4,24 +4,8 @@ title: Om os
 
 bedsteboglæser er hjemmesiden for dig som gerne vil havde et godt overblik over de bedste eboglæsere på markedet.
 
-### Her på hjemmesiden vil du få:
+### Her vil du få indsigt i:
 
-* Easy editable content in **Markdown** files (posts, pages and parts)
-* **CSS** with `styled-jsx` and `PostCSS`
-* **SEO** (sitemap generation, robot.txt, meta and OpenGraph Tags)
-* **Social** sharing (Twitter, Facebook, Google, LinkedIn)
-* **Comments** (Facebook)
-* **Images** lazy loading and `webp` support (gatsby-image)
-* Post **categories** (category based post list)
-* Full text **searching** (Algolia)
-* **Contact** form (Netlify form handling)
-* **RSS** feed
-* 100% **PWA** (manifest.webmanifest, offline support, favicons)
-* Google **Analytics**
-* App **favicons** generator (node script)
-* Easy customizable base **styles** via `theme` object generated from `yaml` file (fonts, colors, sizes)
-* React **v.16** (gatsby-plugin-react-next)
-* **Components** lazy loading (social sharing)
-* **ESLint** (google config)
-* **Prettier** code styling
-* Webpack `BundleAnalyzerPlugin`
+* Tips om hvad du bør være klar over før du køber en e-boglæser
+* Video anmendelser på forskellige e-boglæsere
+* Henvisninger til webshops som sælger e-boglæsere
