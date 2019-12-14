@@ -5,7 +5,7 @@ cover: kindle-3.jpg
 
 At læse e-bøger er en spændende oplevelse, og det kan også hjælpe dig med at nyde din tid, mens du er på farten. Der er dog mange e-bog-læsere på markedet, så hvordan kan du finde ud af, hvad der er den bedste for dig? Her har du en liste med de bedste muligheder, samt en liste over deres funktioner og fordele.
 
-## 1. Amazon Kindle
+## 1. Amazon Kindle Paperwhite
 
 
 ![Amazon Kindle Paperwhite](./Amazon-Kindle-Paperwhite-4-8GB-(2018).jpg)
@@ -42,7 +42,7 @@ Cons
 
 ## 2. Amazon Kindle Oasis
 
-![Amazon Oasis](./Amazon-Kindle-Paperwhite-4-8GB-(2018).jpg)
+![Amazon Oasis](./amazon-oasis.jpg)
 
 Mens Amazon Kindle Oasis har en højere pris sammenlignet med de fleste e-bog-læsere, kommer den også med en ret premium fornemmelse. Dette er den letteste og tyndeste tænder. Dertil kommer, at det har den længste batterilevetid derude, hvis du har batteriopladningsdækslet, vil dette vare i flere måneder uden problemer. 
 
@@ -74,7 +74,7 @@ Cons
 	text-decoration:none;
 	text-shadow:0px 1px 0px #2f6627;" >Tjek Pris Her</a>
 
-## 2. PocketBook Touch
+## 3. PocketBook Touch
 
 ![PocketBook Touch](./pocketbook.jpg)
 
