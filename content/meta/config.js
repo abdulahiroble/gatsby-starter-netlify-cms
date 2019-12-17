@@ -2,7 +2,7 @@ module.exports = {
   siteTitle: "Bedste E-bøger - Find din favorit e-bog her", // <title>
   shortSiteTitle: "bedsteeboglæser.dk", // <title> ending for posts and pages
   siteDescription: "Find din næste e-bog her",
-  siteUrl: "https://gatsby-starter-hero-blog.greglobinski.com",
+  siteUrl: "https://bedsteeboglaeser.dk/",
   // pathPrefix: "",
   // siteImage: "preview.jpg",
   siteLanguage: "en",

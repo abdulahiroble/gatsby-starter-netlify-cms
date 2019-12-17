@@ -74,7 +74,37 @@ Cons
 	text-decoration:none;
 	text-shadow:0px 1px 0px #2f6627;" >Tjek Pris Her</a>
 
-## 3. PocketBook Touch
+
+## 3. Kobo Clara
+
+![Kobo Clara](./Kobo-Clara-HD.jpg)
+
+Når du bruger Kobo Aura, vil du kunne lide dens enkelhed og stor opmærksomhed på detaljer. Kobo Aura har et justerbart komfortlys uden at skulle bekymre sig om øjenbelastning. Desuden har de en dedikeret butik med 5 millioner e-bøger. Desuden tilbyder de personlige henstillinger, så oplevelsen er meget spændende og unik på samme tid.
+
+Selvom produktet ikke er vandtæt, har du en meget let 212 PPI-enhed, som du kan medbringe med dig overalt, hvor du vil hen. Du har adgang til et væld af understøttede formater, meget mere end den almindelige Kindle, som er et stort plus. De har også 11 skrifttyper og 40 størrelser at vælge imellem. Batteriets levetid er også stor, varer i mange uger.
+
+Pros
+- Meget let og let at bruge
+- Masser af skrifttyper og tilpasninger
+- God kvalitet
+
+Cons
+-  Problemer med berøringsskærm til tider
+-  Nogle formater ser ikke godt ud på enheden.
+
+<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=29353&bannerid=67757&htmlurl=https://www.proshop.dk/Tablet/Kobo-Clara-HD-eBook-reader-8-GB-6/2684917" target="_blank"  style="background-color:#f44336; 
+	border-radius:28px;
+	border:1px solid #f44336;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;" >Tjek Pris Her</a>
+
+## 4. PocketBook Touch
 
 ![PocketBook Touch](./pocketbook.jpg)
 
