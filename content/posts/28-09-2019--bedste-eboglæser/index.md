@@ -1,5 +1,5 @@
 ---
-title: Bedste E-boglæser 2019
+title: Bedste E-bogslæser
 cover: kindle-3.jpg
 ---
 
@@ -27,6 +27,24 @@ Pros
 Cons
 - PPI er ikke særlig høj
 - Ingen tekst til tale
+
+### Videoanmeldelse
+
+<div style="position: relative
+        paddingBottom: 56.25% /* 16:9 */,
+        paddingTop: 25,
+        height: 0">
+
+ <iframe width="340" height="200" style="          position: absolute,
+          top: 0,
+          left: 0,
+          width: 100%,
+          height: 100%"
+src="https://www.youtube.com/embed/31geD61t7mU" SameSite=None
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+</div>
 
 <a href="https://www.computersalg.dk/i/5035496/amazon-kindle-paperwhite-ebook/?utm_source=adtraction&utm_medium=affiliate&utm_campaign=adtraction&at_gd=4274E08D2B30453B4372FC9F60FBC133D9632539" target="_blank"  style="background-color:#f44336; 
 	border-radius:28px;
@@ -62,6 +80,24 @@ Cons
 - Nogle folk kan havde problemer med skærmen
 - Softwareproblemer til tider
 
+### Videoanmeldelse
+
+<div style="position: relative
+        paddingBottom: 56.25% /* 16:9 */,
+        paddingTop: 25,
+        height: 0">
+
+ <iframe width="340" height="200" style="          position: absolute,
+          top: 0,
+          left: 0,
+          width: 100%,
+          height: 100%"
+src="https://www.youtube.com/embed/_NSwoGRFHTE" SameSite=None
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+</div>
+
 <a href="https://www.computersalg.dk/i/5723442/amazon-kindle-oasis-ebook-laeser-8/?utm_source=adtraction&utm_medium=affiliate&utm_campaign=adtraction&at_gd=4274E08D2B30453B4372FC9F60FBC133D9632539" target="_blank"  style="background-color:#f44336; 
 	border-radius:28px;
 	border:1px solid #f44336;
@@ -92,6 +128,24 @@ Cons
 -  Problemer med berøringsskærm til tider
 -  Nogle formater ser ikke godt ud på enheden.
 
+### Videoanmeldelse
+
+<div style="position: relative
+        paddingBottom: 56.25% /* 16:9 */,
+        paddingTop: 25,
+        height: 0">
+
+ <iframe width="340" height="200" style="          position: absolute,
+          top: 0,
+          left: 0,
+          width: 100%,
+          height: 100%"
+src="https://www.youtube.com/embed/XIaN5TlbJJQ" SameSite=None
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+</div>
+
 <a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=29353&bannerid=67757&htmlurl=https://www.proshop.dk/Tablet/Kobo-Clara-HD-eBook-reader-8-GB-6/2684917" target="_blank"  style="background-color:#f44336; 
 	border-radius:28px;
 	border:1px solid #f44336;
@@ -103,6 +157,7 @@ Cons
 	padding:16px 31px;
 	text-decoration:none;
 	text-shadow:0px 1px 0px #2f6627;" >Tjek Pris Her</a>
+
 
 ## 4. PocketBook Touch
 
@@ -124,6 +179,24 @@ Cons
 - Internetbrowser kan forbedres
 - Forældet brugergrænseflade
 - Der er ikke noget farvetemperaturlys
+
+### Videoanmeldelse
+
+<div style="position: relative
+        paddingBottom: 56.25% /* 16:9 */,
+        paddingTop: 25,
+        height: 0">
+
+ <iframe width="340" height="200" style="          position: absolute,
+          top: 0,
+          left: 0,
+          width: 100%,
+          height: 100%"
+src="https://www.youtube.com/embed/aNwQRHFInYg" SameSite=None
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+</div>
 
 <a href="https://www.computersalg.dk/i/4725296/pocketbook-touch-lux-4-ebook-laeser/?utm_source=adtraction&utm_medium=affiliate&utm_campaign=adtraction&at_gd=4274E08D2B30453B4372FC9F60FBC133D9632539" target="_blank"  style="background-color:#f44336; 
 	border-radius:28px;
