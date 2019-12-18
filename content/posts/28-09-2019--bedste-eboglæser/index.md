@@ -1,5 +1,5 @@
 ---
-title: Bedste E-boglæser 2019
+title: Bedste E-bogslæser
 cover: kindle-3.jpg
 ---
 
@@ -61,6 +61,22 @@ Pros
 Cons
 - Nogle folk kan havde problemer med skærmen
 - Softwareproblemer til tider
+
+<div style="position: relative
+        paddingBottom: 56.25% /* 16:9 */,
+        paddingTop: 25,
+        height: 0">
+
+ <iframe width="340" height="200" style="          position: absolute,
+          top: 0,
+          left: 0,
+          width: 100%,
+          height: 100%"
+src="https://www.youtube.com/embed/NSwoGRFHTE" SameSite=None
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+</div>
 
 <a href="https://www.computersalg.dk/i/5723442/amazon-kindle-oasis-ebook-laeser-8/?utm_source=adtraction&utm_medium=affiliate&utm_campaign=adtraction&at_gd=4274E08D2B30453B4372FC9F60FBC133D9632539" target="_blank"  style="background-color:#f44336; 
 	border-radius:28px;
