@@ -1,7 +1,7 @@
 module.exports = {
-  siteTitle: "Bedste E-bøger - Find din favorit e-bog her", // <title>
-  shortSiteTitle: "bedste e-bogslæser", // <title> ending for posts and pages
-  siteDescription: "Find din næste e-bog her",
+  siteTitle: "Bedste E-bogslæser - Find din favorit e bogslæser her", // <title>
+  shortSiteTitle: "gode e-bogslæser", // <title> ending for posts and pages
+  siteDescription: "Find din næste e-bogslæser her",
   siteUrl: "https://bedsteeboglaeser.dk/",
   // pathPrefix: "",
   // siteImage: "preview.jpg",
