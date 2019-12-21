@@ -3,7 +3,7 @@ module.exports = {
     title: "Bedstegamerlaptop",
     siteUrl: "https://bedstegamerlaptop.dk",
     description:
-      "Bedstegamerlaptop er hjemmesiden for dig som gerne vil have et overblik over de bedste gamer laptops på markedet."
+      "Bedstegamerlaptop er hjemmesiden for dig som gerne vil have et overblik over de bedste gamer bærbar på markedet."
   },
   plugins: [
     "gatsby-plugin-react-helmet",
@@ -13,7 +13,7 @@ module.exports = {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
         // replace "UA-XXXXXXXXX-X" with your own Tracking ID
-        trackingId: "UA-149019685-2"
+        trackingId: "UA-152609719-1"
       }
     },
     {
@@ -56,7 +56,8 @@ module.exports = {
               // It's important to specify the maxWidth (in pixels) of
               // the content container as this plugin uses this as the
               // base for generating different widths of each image.
-              maxWidth: 2048
+              maxWidth: 2048,
+              linkImagesToOriginal: false
             }
           },
           {
