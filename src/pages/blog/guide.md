@@ -1,11 +1,11 @@
 ---
 templateKey: "blog-post"
-title: "Købsguide: Sådan Finder Du den Bedste Gamer Laptop"
+title: "Købsguide: Sådan Finder Du den Bedste Gamer Bærbar"
 date: 2019-10-15T15:04:10.000Z
 featuredpost: false
 featuredimage: /img/thumbnail.jpg
 description: >-
-  Det plejede at være svært at finde en god gamer laptop. En som ikke vejede et ton eller havde dårligt batterilevetid.  
+  Det plejede at være svært at finde en god gamer bærbar. En som ikke vejede et ton eller havde dårligt batterilevetid.  
 
   I dag er det anderledes. Nu er problemet at der er for mange gode gamer laptops og det kan derfor være svært at vælge den rigtige for en selv.
 

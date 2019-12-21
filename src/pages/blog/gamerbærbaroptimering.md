@@ -1,6 +1,6 @@
 ---
 templateKey: "blog-post"
-title: "4 Tips til at optimere din Gamer Laptop"
+title: "4 Tips til at optimere din Gamer Bærbar"
 date: 2019-09-5T15:04:10.000Z
 featuredpost: false
 description: >-
