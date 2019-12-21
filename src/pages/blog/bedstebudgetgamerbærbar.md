@@ -1,11 +1,11 @@
 ---
 templateKey: "blog-post"
-title: "Bedste Budget Gamer Laptop 2019"
+title: "Bedste Budget Gamer Bærbar 2019"
 date: 2019-10-25T15:04:10.000Z
 featuredpost: true
 featuredimage: /img/nitro.jpg
 description: >-
-  Selvom der kun er cirka 2 måneder tilbage af 2019 har vi her på siden valgt at komme med vi med vores bud på den bedste budget gamer laptop i år.
+  Selvom der kun er cirka 2 måneder tilbage af 2019 har vi her på siden valgt at komme med vi med vores bud på den bedste budget gamer bærbar i år.
 tags:
   - acer nitro 5
 ---
@@ -68,7 +68,7 @@ allowfullscreen></iframe>
 
 ### Konklusion
 
-God laptop for pengene. Kan køre titler som fortnite på high settings og stadig havde høj fps.
+God bærbar for pengene. Kan køre titler som fortnite på high settings og stadig havde høj fps.
 
 <div class="has-text-centered">
 <a href="https://www.computersalg.dk/i/5626781/specsarea/?utm_source=adtraction&utm_medium=affiliate&utm_campaign=adtraction&at_gd=4274E08D2B30453B4372FC9F60FBC133D9632539" target="_blank"  style="background-color:#f44336; 
@@ -81,7 +81,23 @@ God laptop for pengene. Kan køre titler som fortnite på high settings og stadi
 	font-size:17px;
 	padding:16px 31px;
 	text-decoration:none;
-	text-shadow:0px 1px 0px #2f6627;" >6.998,00 DKK <br>
-<span>hos computersalg.dk</span></a> <br>
-<span  style="font-style: italic;">*Prisen gælder så længe lager haves</span></a>
+	text-shadow:0px 1px 0px #2f6627;" >Tjek Pris - Computersalg.dk</a>
 </div>
+
+<br>
+
+<div class="has-text-centered">
+<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=29353&bannerid=67757&htmlurl=https://www.proshop.dk/Baerbar/Acer-Nitro-5-AN515-54-50UE-i5-9300H-GTX-1650/2740643" target="_blank"  style="background-color:#f44336; 
+	border-radius:28px;
+	border:1px solid #f44336;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;" >Tjek Pris - Proshop.dk <br></a>
+</div>
+
+
