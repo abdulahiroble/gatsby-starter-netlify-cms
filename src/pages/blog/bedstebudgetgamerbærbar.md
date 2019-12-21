@@ -97,7 +97,5 @@ God bærbar for pengene. Kan køre titler som fortnite på high settings og stad
 	font-size:17px;
 	padding:16px 31px;
 	text-decoration:none;
-	text-shadow:0px 1px 0px #2f6627;" >Tjek Pris - Proshop.dk <br></a>
+	text-shadow:0px 1px 0px #2f6627;" >Tjek Pris - Proshop.dk </a>
 </div>
-
-
