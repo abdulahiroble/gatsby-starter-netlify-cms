@@ -3,7 +3,7 @@ module.exports = {
     title: "Bedstegamerlaptop",
     siteUrl: "https://bedstegamerlaptop.dk",
     description:
-      "Bedstegamerlaptop er hjemmesiden for dig som gerne vil have et overblik over de bedste gamer laptops på markedet."
+      "Bedstegamerlaptop er hjemmesiden for dig som gerne vil have et overblik over de bedste gamer bærbar på markedet."
   },
   plugins: [
     "gatsby-plugin-react-helmet",
