@@ -41,3 +41,9 @@ Det bedste er nok en kombination af begge hvor SSD bliver brugt til at loade win
 ## 5. God kølingssystem
 
 Invester i en gaming laptop som har et godt kølingsystem. Der er ikke noget værre end at vide at din splinternye gamer computer ikke kan håndtere varmen og begynder at lagge når du spiller.
+
+## Tjek vores bud på de bedste Gamer bærbare
+
+<a href="https://www.bedstegamerlaptop.dk/blog/bedstegamerb%C3%A6rbar/" target="_blank" >Bedste gamer bærbar 2019</a>
+
+<a href="https://www.bedstegamerlaptop.dk/blog/bedstebudgetgamerb%C3%A6rbar/" target="_blank" >Bedste budget gamer bærbar 2019</a>
