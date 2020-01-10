@@ -110,22 +110,20 @@ export const query = graphql`
       }
     }
     bgDesktop: imageSharp(
-      fluid: { originalName: { regex: "/jared-brashier-duNHkmSkW6M-unsplash/" } }
+      fluid: { originalName: { regex: "/diana-macesanu-fvPfMJL2wKw-unsplash/" } }
     ) {
       resize(width: 1200, quality: 90, cropFocus: CENTER) {
         src
       }
     }
     bgTablet: imageSharp(
-      fluid: { originalName: { regex: "/jared-brashier-duNHkmSkW6M-unsplash/" } }
+      fluid: { originalName: { regex: "/diana-macesanu-fvPfMJL2wKw-unsplash/" } }
     ) {
       resize(width: 800, height: 1100, quality: 90, cropFocus: CENTER) {
         src
       }
     }
-    bgMobile: imageSharp(
-      fluid: { originalName: { regex: "/jared-brashier-duNHkmSkW6M-unsplash/" } }
-    ) {
+    bgMobile: imageSharp(fluid: { originalName: { regex: "/clay-banks-0VfnZbQd98c-unsplash/" } }) {
       resize(width: 450, height: 850, quality: 90, cropFocus: CENTER) {
         src
       }
