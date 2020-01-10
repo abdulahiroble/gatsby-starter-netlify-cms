@@ -109,17 +109,21 @@ export const query = graphql`
         }
       }
     }
-    bgDesktop: imageSharp(fluid: { originalName: { regex: "/kindle-1245899_1920/" } }) {
+    bgDesktop: imageSharp(
+      fluid: { originalName: { regex: "/diana-macesanu-fvPfMJL2wKw-unsplash/" } }
+    ) {
       resize(width: 1200, quality: 90, cropFocus: CENTER) {
         src
       }
     }
-    bgTablet: imageSharp(fluid: { originalName: { regex: "/kindle-1245899_1920/" } }) {
+    bgTablet: imageSharp(
+      fluid: { originalName: { regex: "/diana-macesanu-fvPfMJL2wKw-unsplash/" } }
+    ) {
       resize(width: 800, height: 1100, quality: 90, cropFocus: CENTER) {
         src
       }
     }
-    bgMobile: imageSharp(fluid: { originalName: { regex: "/kindle-1245899_1920/" } }) {
+    bgMobile: imageSharp(fluid: { originalName: { regex: "/clay-banks-0VfnZbQd98c-unsplash/" } }) {
       resize(width: 450, height: 850, quality: 90, cropFocus: CENTER) {
         src
       }
