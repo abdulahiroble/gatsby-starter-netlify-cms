@@ -92,7 +92,7 @@ const Footer = class extends React.Component {
             Læs mere om cookies
           </Link>
         </CookieConsent>
-        <div className="has-text-centered">
+        {/* <div className="has-text-centered">
           Icons made by{" "}
           <a
             href="https://www.flaticon.com/authors/good-ware"
@@ -104,7 +104,7 @@ const Footer = class extends React.Component {
           <a href="https://www.flaticon.com/" title="Flaticon">
             www.flaticon.com
           </a>
-        </div>
+        </div> */}
       </footer>
     );
   }
