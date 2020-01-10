@@ -1,5 +1,5 @@
 ---
-title: Bedste E-bogslæser
+title: Bedste Drone til Prisen
 cover: kindle-3.jpg
 ---
 
