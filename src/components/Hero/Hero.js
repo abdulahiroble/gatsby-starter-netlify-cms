@@ -9,7 +9,7 @@ const Hero = props => {
   return (
     <React.Fragment>
       <section className="hero">
-        <h1>På udkig efter den bedste drone til prisen? Så er du kommet til det rette sted</h1>
+        <h1>På udkig efter den bedste drone til prisen?</h1>
         <button onClick={scrollToContent} aria-label="scroll">
           <FaArrowDown />
         </button>
