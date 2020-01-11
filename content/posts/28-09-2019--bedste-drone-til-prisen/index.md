@@ -5,9 +5,9 @@ cover: drone-2724257_1920.jpg
 
 At læse e-bøger er en spændende oplevelse, og det kan også hjælpe dig med at nyde din tid, mens du er på farten. Der er dog mange e-bog-læsere på markedet, så hvordan kan du finde ud af, hvad der er den bedste for dig? Her har du en liste med de bedste muligheder, samt en liste over deres funktioner og fordele.
 
-## 1. Amazon Kindle Paperwhite
+## 1. DJI Mavic 2 Pro
 
-![Amazon Kindle Paperwhite](<./Amazon-Kindle-Paperwhite-4-8GB-(2018).jpg>)
+![DJI Mavic 2 Pro](./Mavic-2-pro-3-768x768.jpg)
 
 Amazon Kindle har stadig nogle af de bedste funktioner, som du kan finde på markedet. Det er en meget god e-bog-læser, den har justerbare frontlamper, hvilket betyder, at du kan læse i mange timer uden at stoppe. Derudover er skærmen fri for enhver blænding, noget der gør det nemt for dig at læse, selvom du er i direkte sollys.
 
@@ -39,13 +39,13 @@ Cons
           left: 0,
           width: 100%,
           height: 100%"
-src="https://www.youtube.com/embed/31geD61t7mU" SameSite=None
+src="https://www.youtube.com/embed/q1Hks_NieMk" SameSite=None
 frameborder="0" 
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
 </div>
 
-<a href="https://www.computersalg.dk/i/5035496/amazon-kindle-paperwhite-ebook/?utm_source=adtraction&utm_medium=affiliate&utm_campaign=adtraction&at_gd=4274E08D2B30453B4372FC9F60FBC133D9632539" target="_blank"  style="background-color:#f44336; 
+<a href="#" target="_blank"  style="background-color:#f44336; 
 	border-radius:28px;
 	border:1px solid #f44336;
 	display:inline-block;
@@ -57,9 +57,9 @@ allowfullscreen></iframe>
 	text-decoration:none;
 	text-shadow:0px 1px 0px #2f6627;" >Tjek Pris Her</a>
 
-## 2. Amazon Kindle Oasis
+## 2. DJI Mavic 2 Zoom
 
-![Amazon Oasis](./amazon-oasis.jpg)
+![DJI Mavic 2 Zoom](./Mavic-2-zoom-3-768x768.jpg)
 
 Mens Amazon Kindle Oasis har en højere pris sammenlignet med de fleste e-bog-læsere, kommer den også med en ret premium fornemmelse. Dette er den letteste og tyndeste tænder. Dertil kommer, at det har den længste batterilevetid derude, hvis du har batteriopladningsdækslet, vil dette vare i flere måneder uden problemer.
 
@@ -93,13 +93,13 @@ Cons
           left: 0,
           width: 100%,
           height: 100%"
-src="https://www.youtube.com/embed/_NSwoGRFHTE" SameSite=None
+src="https://www.youtube.com/embed/B_xOgjoCKZM" SameSite=None
 frameborder="0" 
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
 </div>
 
-<a href="https://www.computersalg.dk/i/5723442/amazon-kindle-oasis-ebook-laeser-8/?utm_source=adtraction&utm_medium=affiliate&utm_campaign=adtraction&at_gd=4274E08D2B30453B4372FC9F60FBC133D9632539" target="_blank"  style="background-color:#f44336; 
+<a href="#" target="_blank"  style="background-color:#f44336; 
 	border-radius:28px;
 	border:1px solid #f44336;
 	display:inline-block;
@@ -111,9 +111,9 @@ allowfullscreen></iframe>
 	text-decoration:none;
 	text-shadow:0px 1px 0px #2f6627;" >Tjek Pris Her</a>
 
-## 3. Kobo Clara
+## 3. DJI Mavic Air
 
-![Kobo Clara](./Kobo-Clara-HD.jpg)
+![DJI Mavic Air](./dji-mavic-air-onyx-black-drone.jpg)
 
 Når du bruger Kobo Aura, vil du kunne lide dens enkelhed og stor opmærksomhed på detaljer. Kobo Aura har et justerbart komfortlys uden at skulle bekymre sig om øjenbelastning. Desuden har de en dedikeret butik med 5 millioner e-bøger. Desuden tilbyder de personlige henstillinger, så oplevelsen er meget spændende og unik på samme tid.
 
@@ -121,7 +121,7 @@ Selvom produktet ikke er vandtæt, har du en meget let 212 PPI-enhed, som du kan
 
 Pros
 
-- Meget let og let at bruge
+- optisk zoom
 - Masser af skrifttyper og tilpasninger
 - God kvalitet
 
@@ -142,13 +142,13 @@ Cons
           left: 0,
           width: 100%,
           height: 100%"
-src="https://www.youtube.com/embed/XIaN5TlbJJQ" SameSite=None
+src="https://www.youtube.com/embed/T6Gv07_bTiw" SameSite=None
 frameborder="0" 
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
 </div>
 
-<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=29353&bannerid=67757&htmlurl=https://www.proshop.dk/Tablet/Kobo-Clara-HD-eBook-reader-8-GB-6/2684917" target="_blank"  style="background-color:#f44336; 
+<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=29353&bannerid=67757&htmlurl=https://www.proshop.dk/Droner-Helikopter/DJI-Mavic-Air-Fly-More-Combo-Onyx-Black/2641448" target="_blank"  style="background-color:#f44336; 
 	border-radius:28px;
 	border:1px solid #f44336;
 	display:inline-block;
@@ -160,9 +160,9 @@ allowfullscreen></iframe>
 	text-decoration:none;
 	text-shadow:0px 1px 0px #2f6627;" >Tjek Pris Her</a>
 
-## 4. PocketBook Touch
+## 4. DJI Mavic Pro Platinum
 
-![PocketBook Touch](./pocketbook.jpg)
+![DJI Mavic Pro Platinum](./DJI-Mavic-Pro-Platinum.jpg)
 
 Hvis du vil have en anden, unik e-bog-læser, skiller Pocketbook Touch Lux sig ganske meget. I modsætning til andre produkter med berøringsskærm har denne også fysiske knapper. Så selvom du kan lide at røre ved skærmen, har du nogle gange brug for knapper, og de vil hjælpe dig meget. Det justerbare belysningssystem er meget nyttigt. Det har ikke nogen blænding, i stedet kan du læse, selvom du er i bevægelse.
 
@@ -170,9 +170,8 @@ Hvis du vil have en anden, unik e-bog-læser, skiller Pocketbook Touch Lux sig g
 
 Pros
 
-- 17 understøttede formater
-- Masser af ordbøger
-- Ingen blænding
+- Mindre støjende
+- Øget flyvetud
 - Meget let at læse
 - Store specifikationer
 
@@ -195,13 +194,13 @@ Cons
           left: 0,
           width: 100%,
           height: 100%"
-src="https://www.youtube.com/embed/aNwQRHFInYg" SameSite=None
+src="https://www.youtube.com/embed/GyFSXWS6RhI" SameSite=None
 frameborder="0" 
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
 </div>
 
-<a href="https://www.computersalg.dk/i/4725296/pocketbook-touch-lux-4-ebook-laeser/?utm_source=adtraction&utm_medium=affiliate&utm_campaign=adtraction&at_gd=4274E08D2B30453B4372FC9F60FBC133D9632539" target="_blank"  style="background-color:#f44336; 
+<a href="#" target="_blank"  style="background-color:#f44336; 
 	border-radius:28px;
 	border:1px solid #f44336;
 	display:inline-block;
