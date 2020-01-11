@@ -200,7 +200,7 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 allowfullscreen></iframe>
 </div>
 
-<a href="#" target="_blank"  style="background-color:#f44336; 
+<a href="https://www.computersalg.dk/i/3714981/dji-mavic-pro-platinum-fly-more?sq=dji%20mavic%20pro%20platinum&utm_source=adtraction&utm_medium=affiliate&utm_campaign=adtraction&at_gd=4274E08D2B30453B4372FC9F60FBC133D9632539" target="_blank"  style="background-color:#f44336; 
 	border-radius:28px;
 	border:1px solid #f44336;
 	display:inline-block;
