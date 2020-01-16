@@ -3,23 +3,33 @@ title: Bedste Drone til Prisen
 cover: drone-2724257_1920.jpg
 ---
 
-At læse e-bøger er en spændende oplevelse, og det kan også hjælpe dig med at nyde din tid, mens du er på farten. Der er dog mange e-bog-læsere på markedet, så hvordan kan du finde ud af, hvad der er den bedste for dig? Her har du en liste med de bedste muligheder, samt en liste over deres funktioner og fordele.
+At flyve med droner er en spændende oplevelse, og det kan også hjælpe dig med at tage flotte landskabsbilleder. Der er dog mange droner på markedet, så hvordan kan du finde ud af, hvad der er den bedste for dig? Her har du en liste med de bedste DJI droner, samt en liste over deres funktioner og fordele.
 
 ## 1. DJI Mavic 2 Pro
 
 ![DJI Mavic 2 Pro](./Mavic-2-pro-3-768x768.jpg)
 
-Amazon Kindle har stadig nogle af de bedste funktioner, som du kan finde på markedet. Det er en meget god e-bog-læser, den har justerbare frontlamper, hvilket betyder, at du kan læse i mange timer uden at stoppe. Derudover er skærmen fri for enhver blænding, noget der gør det nemt for dig at læse, selvom du er i direkte sollys.
+DJI Mavic pro er et stor navn på dronemarkedet og alle deres produkter er intet mindre end fremragende. Hvis du ser på Mavic Pro du vil se endnu en fantastisk DJI-drone
+foran dig.
 
-Den nyere version af Kindle har også nogle gode funktioner som oversættelse af ord, justering af tekststørrelse uden at forlade siden og finde orddefinitioner. Der er endda en mulighed for at fremhæve passager, der også kan være nyttige. De har mulighed for at få adgang til Prime-læsning og få gratis adgang til masser af titler.
+Mavic 2 pro har flere innovationer, f.eks er
+kameraet nu meget større. Du har flere sensorer som hjælper med at undgå koalitioner. Dertil er hele designet meget mere kompakt
 
-Batteriets levetid kan også vare i uger på grund af de intelligente displayindstillinger. Du har også Audible support, som gør lytter til lydbøger til en eksplosion. I dette tilfælde vil du måske gå med et batteri med større kapacitet, bare for at være sikker.
+Denne model er hurtigere og meget mere støjsvag end
+den originale Mavic pro og den vejer ca. 297 gram. Det gør at den passer ind i enhver typerygsæk endda en håndtaske.
+
+Med denne drone du får 8 gigabyte lagring samt et microSD-slot, der kan gemme op til 128 gigabyte ekstra plads.
+
+Du kan overføre dine fotos og optagelser til din computer ved hjælp af USBC-port, du kan endda tilslutte din
+drone til en computer for at opdatere dens firmware.
+
+DJI Mavic 2 Pro er den bedste drone på markedet med overlegen billed- og videokvalitet, flere sensorer, som hjælper med at undgå forhindringer og fremragende batterilevetid.
 
 Pros
 
-- Justerbart frontlys
-- Distraktionsfri læsning
-- Support til lydbog
+- Større kamera
+- Lavere støjniveau
+- Øget hastighed
 - Lang batterilevetid
 
 Cons
