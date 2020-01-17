@@ -1,11 +1,11 @@
 module.exports = {
-  siteTitle: "Bedste E-bogslæser - Find din favorit e bogslæser her", // <title>
-  shortSiteTitle: "gode e-bogslæser", // <title> ending for posts and pages
-  siteDescription: "Find din næste e-bogslæser her",
+  siteTitle: "Bedste Drone til Prisen - Find Gode DJI droner her", // <title>
+  shortSiteTitle: "Bedste Drone 2019", // <title> ending for posts and pages
+  siteDescription: "Drone med Kamera",
   siteUrl: "https://bedstedronetilprisen.dk/",
   // pathPrefix: "",
   // siteImage: "preview.jpg",
-  siteLanguage: "en",
+  siteLanguage: "da",
 
   /* author */
   // authorName: "greg lobinski",
@@ -16,8 +16,8 @@ module.exports = {
   // headerSubTitle: "presents another one GatsbyJS starter",
 
   /* manifest.json */
-  manifestName: "Bedste E-bøger - Find din favorit e-bog her",
-  manifestShortName: "bedste e-bogslæser", // max 12 characters
+  manifestName: "Bedste Drone til Prisen - Find din næste drone her",
+  manifestShortName: "Bedste Drone", // max 12 characters
   manifestStartUrl: "/index.html",
   manifestBackgroundColor: "white",
   manifestThemeColor: "#666",
