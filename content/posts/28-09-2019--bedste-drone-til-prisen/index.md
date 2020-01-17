@@ -56,7 +56,7 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 allowfullscreen></iframe>
 </div>
 
-<a href="#" target="_blank"  style="background-color:#f44336; 
+<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=29353&bannerid=55216&htmlurl=https://www.hubshop.dk/shop/dji-mavic-2-pro-combo-startpakke/" target="_blank"  style="background-color:#f44336; 
 	border-radius:28px;
 	border:1px solid #f44336;
 	display:inline-block;
@@ -114,7 +114,7 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 allowfullscreen></iframe>
 </div>
 
-<a href="#" target="_blank"  style="background-color:#f44336; 
+<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=29353&bannerid=55216&htmlurl=https://www.hubshop.dk/shop/dji-mavic-2-zoom-combo-startpakke/" target="_blank"  style="background-color:#f44336; 
 	border-radius:28px;
 	border:1px solid #f44336;
 	display:inline-block;
