@@ -3,24 +3,35 @@ title: Bedste Drone til Prisen
 cover: drone-2724257_1920.jpg
 ---
 
-At læse e-bøger er en spændende oplevelse, og det kan også hjælpe dig med at nyde din tid, mens du er på farten. Der er dog mange e-bog-læsere på markedet, så hvordan kan du finde ud af, hvad der er den bedste for dig? Her har du en liste med de bedste muligheder, samt en liste over deres funktioner og fordele.
+At flyve med droner er en spændende oplevelse, og det kan også hjælpe dig med at tage flotte landskabsbilleder. Der er dog mange droner på markedet, så hvordan kan du finde ud af, hvad der er den bedste for dig? Her har du en liste med de bedste DJI droner, samt en liste over deres funktioner og fordele.
 
 ## 1. DJI Mavic 2 Pro
 
 ![DJI Mavic 2 Pro](./Mavic-2-pro-3-768x768.jpg)
 
-Amazon Kindle har stadig nogle af de bedste funktioner, som du kan finde på markedet. Det er en meget god e-bog-læser, den har justerbare frontlamper, hvilket betyder, at du kan læse i mange timer uden at stoppe. Derudover er skærmen fri for enhver blænding, noget der gør det nemt for dig at læse, selvom du er i direkte sollys.
+DJI Mavic pro er et stor navn på dronemarkedet og alle deres produkter er intet mindre end fremragende. Hvis du ser på Mavic Pro du vil se endnu en fantastisk DJI-drone
+foran dig.
 
-Den nyere version af Kindle har også nogle gode funktioner som oversættelse af ord, justering af tekststørrelse uden at forlade siden og finde orddefinitioner. Der er endda en mulighed for at fremhæve passager, der også kan være nyttige. De har mulighed for at få adgang til Prime-læsning og få gratis adgang til masser af titler.
+Mavic 2 pro har flere innovationer, f.eks er
+kameraet nu meget større. Du har flere sensorer som hjælper med at undgå koalitioner. Dertil er hele designet meget mere kompakt
 
-Batteriets levetid kan også vare i uger på grund af de intelligente displayindstillinger. Du har også Audible support, som gør lytter til lydbøger til en eksplosion. I dette tilfælde vil du måske gå med et batteri med større kapacitet, bare for at være sikker.
+Denne model er hurtigere og meget mere støjsvag end
+den originale Mavic pro og den vejer ca. 297 gram. Det gør at den passer ind i enhver typerygsæk endda en håndtaske.
+
+Med denne drone får du 8 gigabyte lagring samt et microSD-slot, der kan gemme op til 128 gigabyte ekstra plads.
+
+Du kan overføre dine fotos og optagelser til din computer ved hjælp af USBC-port, du kan endda tilslutte din
+drone til en computer for at opdatere dens firmware.
+
+DJI Mavic 2 Pro er den bedste drone på markedet med overlegen billed- og videokvalitet, flere sensorer, som hjælper med at undgå forhindringer og fremragende batterilevetid.
 
 Pros
 
-- Justerbart frontlys
-- Distraktionsfri læsning
-- Support til lydbog
-- Lang batterilevetid
+- Større kamera
+- Lavere støjniveau
+- Øget hastighed
+- Længere batterilevetid
+- Billeder og video i 4k
 
 Cons
 
@@ -61,25 +72,29 @@ allowfullscreen></iframe>
 
 ![DJI Mavic 2 Zoom](./Mavic-2-zoom-3-768x768.jpg)
 
-Mens Amazon Kindle Oasis har en højere pris sammenlignet med de fleste e-bog-læsere, kommer den også med en ret premium fornemmelse. Dette er den letteste og tyndeste tænder. Dertil kommer, at det har den længste batterilevetid derude, hvis du har batteriopladningsdækslet, vil dette vare i flere måneder uden problemer.
+Det første du bemærker ved DJI Mavic 2 Zoom er dens design. Den vejer mere end tidligere DJI pro modeller. Batteriet er større som giver mere flyvetid.
 
-300 PPI-opløsningen er en af ​​de bedste på markedet, og den giver bestemt en meget god brugeroplevelse uden at haste. Der er ingen blænding, som mange mennesker vil synes meget hjælpsomme og tiltalende.
+Dens største feature er helt klart dens optiske zoom som kan kontrolleres med din remote controller. Med den kan du zoome ind og ud hvor overgangen føles meget glat.
 
-Der er også tilpasningsmuligheder, såsom justering af tekststørrelse, ændring af skrifttyper og så videre. Du har også et indbygget justerbart lys, der lyser skærmen for at give dig en perfekt læseoplevelse hver gang. Du vil synes, det fungerer meget godt, og resultaterne er svimlende, hver gang du bruger det.
+2 led lygter et tilsluttet på bunden af dronen. De kan slukkes og tændes ved hjælp af din remote controller. Med dem kan du spotte din drone i selv dagslys og om aftenen.
 
-Nogle af de tilføjede Amazon Kindle Oasis-funktioner inkluderer side-drejeknapper, automatisk roterende sideretning, justerbart varmt lys og automatisk justering af lyssensorerne.
+Dronens hastighed har også set en forbedring. Den har nu en top hastighed på 72 km/t og dens flyvetiden er i følge DJI firmaet på 31 min.
+
+Dens kamera sensorer bruger det samme kamera som den tidligere Mavic Pro hvilket er en smule ærgeligt. Ikke det stor mindre kan du stadig tage flotte billeder, men ikke i så høj kvalitet som Mavic 2 Pro.
+
+Alt i alt er Mavic 2 Zoom en faktisk drone som er blevet forbedret på flere fronter. Med et moderne design og et godt kamera er du godt klædt på til at få taget nogle gode landskabsbilleder og video timelapses.
 
 Pros
 
-- Meget tynd og let
-- Auto-justerbare lysstyrkeniveauer
-- 300 PPI
-- Den bedste batterilevetid
+- Optisk zoom
+- Mere flyvetid
+- 2 led lygter så dronen hurtigt kan spottes
+- Forbedret batterilevetid
+- Billeder og video i 4k
 
 Cons
 
-- Nogle folk kan havde problemer med skærmen
-- Softwareproblemer til tider
+- Kameraet er den samme som den originale Mavic Pro
 
 ### Videoanmeldelse
 
@@ -115,20 +130,29 @@ allowfullscreen></iframe>
 
 ![DJI Mavic Air](./dji-mavic-air-onyx-black-drone.jpg)
 
-Når du bruger Kobo Aura, vil du kunne lide dens enkelhed og stor opmærksomhed på detaljer. Kobo Aura har et justerbart komfortlys uden at skulle bekymre sig om øjenbelastning. Desuden har de en dedikeret butik med 5 millioner e-bøger. Desuden tilbyder de personlige henstillinger, så oplevelsen er meget spændende og unik på samme tid.
+DJI Mavic Air er mere den mest forbrugervenlige i forhold til de andre modeller. Det skyldes den er mindre og er nemmere at bære rundt på så.
 
-Selvom produktet ikke er vandtæt, har du en meget let 212 PPI-enhed, som du kan medbringe med dig overalt, hvor du vil hen. Du har adgang til et væld af understøttede formater, meget mere end den almindelige Kindle, som er et stort plus. De har også 11 skrifttyper og 40 størrelser at vælge imellem. Batteriets levetid er også stor, varer i mange uger.
+I forhold til hvor svært det er at flyve drone kan det siges med det samme at det ikke blive noget problem.
+
+Dens tophastighed 42 km/t og dens flyvetid i følge DJI når lige op på 21 min. Dertil har den 3 sensorer, 2 i fronten, 2 i bagenden og 2 i bunden som hjælper med undgå sammenstød.
+
+Den har 8gb lagerplads og du kan tilføje et sd kort. Kammeraet kan tage flottet panorama billeder og kvalitet er i top.
+
+DJI Mavic Air er et godt alternativ for dig som lige er startet med at flyve med droner og ikke er parat til at gå efter de dyrere DJI droner.
+
+DJI Mavic Air har en god balance i forhold til pris, ydeevne og kvalitet.
 
 Pros
 
-- optisk zoom
-- Masser af skrifttyper og tilpasninger
-- God kvalitet
+- Lille og nem at bære rundt på
+- forbedret flyvetid
+- God for nybegyndere
+- Billeder og video i 4k
 
 Cons
 
-- Problemer med berøringsskærm til tider
-- Nogle formater ser ikke godt ud på enheden.
+- 21 min. flyvetid mindre end Mavic pro
+- Kortere flyve distance
 
 ### Videoanmeldelse
 
@@ -164,23 +188,33 @@ allowfullscreen></iframe>
 
 ![DJI Mavic Pro Platinum](./DJI-Mavic-Pro-Platinum.jpg)
 
-Hvis du vil have en anden, unik e-bog-læser, skiller Pocketbook Touch Lux sig ganske meget. I modsætning til andre produkter med berøringsskærm har denne også fysiske knapper. Så selvom du kan lide at røre ved skærmen, har du nogle gange brug for knapper, og de vil hjælpe dig meget. Det justerbare belysningssystem er meget nyttigt. Det har ikke nogen blænding, i stedet kan du læse, selvom du er i bevægelse.
+Mavic Pro Platinum har en lysere design end den originale Mavic Pro, men er ellers fysisk identisk.
 
-8 GB intern hukommelse er meget god, og du kan gemme tusinder af bøger i den uden bekymringer. Der er endda et micro SD-slot, så du kan gå op til 32 GB lagerplads. De understøtter ikke indhold af lydbøger her, hvilket er en skam. Men på den anden side vil det give dig en meget god læseoplevelse. Batteriets levetid går op til en måned, hvilket er fantastisk.
+DJI Mavic Pro Platinum er super nem og flyve og har også et begynder niveau for dem som lige at startet med at flyve med droner.
+
+Den har lys hjælper dig med at orientere flyets retning, når du flyve med dronen.
+
+Kameraet kan tage billeder i 4k og er nem at bære rundt på. Når den foldes, passer Mavic Pro let i en kamerataske.
+
+Plastikcoveret, der beskytter kameraet, kan være på eller fjernes under flyvning.
+
+Dens flyvetid er i følge DJI på omkring 30 min. Dronens støjniveau er væsentlig mindre end tidligere versioner.
+
+Controlleren, der følger med Mavic pro platinum, er også den samme enhed, du får med den originale Mavic pro.
+
+Sensorerne er placeret i bunden og i front som hjælper med at undgå koalitioner.
+
+DJI Mavic Pro Platinum er en fantastisk drone, du kan købe og et god valg for de fleste luftfotografer.
 
 Pros
 
 - Mindre støjende
-- Øget flyvetud
-- Meget let at læse
-- Store specifikationer
+- Øget flyvetid
+- 4k video
 
 Cons
 
-- Ikke den bedste e-boghandel
-- Internetbrowser kan forbedres
-- Forældet brugergrænseflade
-- Der er ikke noget farvetemperaturlys
+- Har ikke sensorer i bagenden
 
 ### Videoanmeldelse
 
