@@ -57,6 +57,21 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 allowfullscreen></iframe>
 </div>
 
+<br/>
+<div class="has-text-centered">
+<a href="https://track.adtraction.com/t/t?a=1319510587&as=1433021260&t=2&tk=1&url=https://www.computersalg.dk/i/5779141/razer-kraken-x-headset-fuld?sq=Razer+krak" target="_blank"  style="background-color:#f44336; 
+	border-radius:28px;
+	border:1px solid #f44336;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;" >Tjek Pris </a>
+</div>
+
 ## 2. Corsair Virtuoso RGB
 
 ![Corsair Virtuso](/img/CORSAIR-VIRTUOSO.png)
@@ -102,6 +117,21 @@ src="https://www.youtube.com/embed/hXw_kI1tKvs" SameSite=None
 frameborder="0" 
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
+</div>
+
+<br/>
+<div class="has-text-centered">
+<a href="https://track.adtraction.com/t/t?a=1319510587&as=1433021260&t=2&tk=1&url=https://www.computersalg.dk/i/5801193/corsair-gaming-virtuoso-rgb-headset?sq=Corsair+Virtuoso" target="_blank"  style="background-color:#f44336; 
+	border-radius:28px;
+	border:1px solid #f44336;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;" >Tjek Pris </a>
 </div>
 
 ## 3. HyperX Cloud Orbit S
@@ -150,6 +180,21 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 allowfullscreen></iframe>
 </div>
 
+<br/>
+<div class="has-text-centered">
+<a href="https://track.adtraction.com/t/t?a=1319510587&as=1433021260&t=2&tk=1&url=https://www.computersalg.dk/i/5866313/hyperx-cloud-orbit-s-headset-fuld?sq=hyperx+cloud+orb" target="_blank"  style="background-color:#f44336; 
+	border-radius:28px;
+	border:1px solid #f44336;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;" >Tjek Pris </a>
+</div>
+
 ## 4. Logitech G Pro X
 
 ![Logitech G Pro X](/img/Logitech-G-Pro-X.jpg)
@@ -196,4 +241,19 @@ src="https://www.youtube.com/embed/_8nBLX9rDWI" SameSite=None
 frameborder="0" 
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
+</div>
+
+<br/>
+<div class="has-text-centered">
+<a href="https://track.adtraction.com/t/t?a=1319510587&as=1433021260&t=2&tk=1&url=https://www.computersalg.dk/i/5709646/logitech-g-pro-x-headset-fuld?sq=Logitech+G+Pro+X" target="_blank"  style="background-color:#f44336; 
+	border-radius:28px;
+	border:1px solid #f44336;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;" >Tjek Pris </a>
 </div>
