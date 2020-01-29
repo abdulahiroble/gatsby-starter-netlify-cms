@@ -3,42 +3,25 @@ title: Bedste Drone tilbehør for DJI Mavic 2
 cover: jakob-owens-w2wBLTtvMMY-unsplash.jpg
 ---
 
-At flyve med droner er en spændende oplevelse, og det kan også hjælpe dig med at tage flotte landskabsbilleder. Der er dog mange droner på markedet, så hvordan kan du finde ud af, hvad der er den bedste for dig? Her har du en liste med de bedste DJI droner, samt en liste over deres funktioner og fordele.
+Drone tilbehør kan forbedre din oplevelse når du er ude og flyve med din drone. Vi har derfor lavet en liste over de fem bedste drone tilbehør til din DJI Mavic 2 Pro. Med dem vil din drone oplevelse blive taget til det næste niveau.
 
 ## 1. DJI Intelligent Flight Battery
 
 ![DJI Batteri](./dji-batteri.jpg)
 
-DJI Mavic pro er et stor navn på dronemarkedet og alle deres produkter er intet mindre end fremragende. Hvis du ser på Mavic Pro du vil se endnu en fantastisk DJI-drone
-foran dig.
+Når du er ude of flyve med din drone og pludselig opdager at batteriet er ved at løbe kan det være irreterende ikke at have et ekstra batteri liggende.
 
-Mavic 2 pro har flere innovationer, f.eks er
-kameraet nu meget større. Du har flere sensorer som hjælper med at undgå koalitioner. Dertil er hele designet meget mere kompakt
+Hvis du køber en DJI Mavic 2 uden <a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=29353&bannerid=55216&htmlurl=https://www.hubshop.dk/shop/dji-mavic-2-pro-combo-startpakke/" target="_blank">Fly more combo</a> vil du kun få tildelt et enkelt batteri.
 
-Denne model er hurtigere og meget mere støjsvag end
-den originale Mavic pro og den vejer ca. 297 gram. Det gør at den passer ind i enhver typerygsæk endda en håndtaske.
+Det er ikke særlig praktisk hvis du fx er ude og filme og du opdager at batteriet er ved at løbe ud.
 
-Med denne drone får du 8 gigabyte lagring samt et microSD-slot, der kan gemme op til 128 gigabyte ekstra plads.
+Det er derfor anbefalet at have et ekstra batteri med sig når man er ude og flyve.
 
-Du kan overføre dine fotos og optagelser til din computer ved hjælp af USBC-port, du kan endda tilslutte din
-drone til en computer for at opdatere dens firmware.
+Hvis du har planer om at købe et ekstra batteri er det en god ide at gå efter <a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=29353&bannerid=55216&htmlurl=https://www.hubshop.dk/shop/dji-mavic-2-pro-combo-startpakke/" target="_blank">Fly more combo</a>.
 
-DJI Mavic 2 Pro er den bedste drone på markedet med overlegen billed- og videokvalitet, flere sensorer, som hjælper med at undgå forhindringer og fremragende batterilevetid.
+Det skyldes du får en hel masse andet tilbehør såsom skuldertask og ladehub udover ekstra batteri.
 
-Pros
-
-- Større kamera
-- Lavere støjniveau
-- Øget hastighed
-- Længere batterilevetid
-- Billeder og video i 4k
-
-Cons
-
-- PPI er ikke særlig høj
-- Ingen tekst til tale
-
-### Bedste praksis og tips
+### Tips om Mavic 2 batteri
 
 <div style="position: relative
         paddingBottom: 56.25% /* 16:9 */,
@@ -72,29 +55,7 @@ allowfullscreen></iframe>
 
 ![DJI ND Filters](./dji-mavic-2-pro-nd-filters-set.jpg)
 
-Det første du bemærker ved DJI Mavic 2 Zoom er dens design. Den vejer mere end tidligere DJI pro modeller. Batteriet er større som giver mere flyvetid.
-
-Dens største feature er helt klart dens optiske zoom som kan kontrolleres med din remote controller. Med den kan du zoome ind og ud hvor overgangen føles meget glat.
-
-2 led lygter et tilsluttet på bunden af dronen. De kan slukkes og tændes ved hjælp af din remote controller. Med dem kan du spotte din drone i selv dagslys og om aftenen.
-
-Dronens hastighed har også set en forbedring. Den har nu en top hastighed på 72 km/t og dens flyvetiden er i følge DJI firmaet på 31 min.
-
-Dens kamera sensorer bruger det samme kamera som den tidligere Mavic Pro hvilket er en smule ærgeligt. Ikke det stor mindre kan du stadig tage flotte billeder, men ikke i så høj kvalitet som Mavic 2 Pro.
-
-Alt i alt er Mavic 2 Zoom en faktisk drone som er blevet forbedret på flere fronter. Med et moderne design og et godt kamera er du godt klædt på til at få taget nogle gode landskabsbilleder og video timelapses.
-
-Pros
-
-- Optisk zoom
-- Mere flyvetid
-- 2 led lygter så dronen hurtigt kan spottes
-- Forbedret batterilevetid
-- Billeder og video i 4k
-
-Cons
-
-- Kameraet er den samme som den originale Mavic Pro
+DJI ND Filtre er et af det mest essentielle tilbehør du kan eje. Det skyldes du med dem kan du forbedre dine drone billeder og gøre dem mere cinematisk.
 
 ### Videoanmeldelse
 
@@ -186,7 +147,7 @@ allowfullscreen></iframe>
 
 ### 4. SanDisk Extreme Pro - 128GB
 
-![Micro sd kort](./dji-mavic-2-ladehub-2-768x768.jpg)
+![Micro sd kort](./sandisk.jpg)
 
 Mavic Pro Platinum har en lysere design end den originale Mavic Pro, men er ellers fysisk identisk.
 
@@ -306,4 +267,6 @@ allowfullscreen></iframe>
 	font-size:17px;
 	padding:16px 31px;
 	text-decoration:none;
-	text-shadow:0px 1px 0px #2f6627;" >Tjek Pris Her</a>
+	text-shadow:0px 1px 0px #2f6627;" >Tjek Pris Her</a> <br> <br>
+
+<a href="https://bedstedronetilprisen/bedste-drone-til-prisen">Tjek vores bud på de bedste droner til prisen</a>
