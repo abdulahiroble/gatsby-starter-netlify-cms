@@ -5,7 +5,7 @@ cover: drone-2724257_1920.jpg
 
 At flyve med droner er en spændende oplevelse, og det kan også hjælpe dig med at tage flotte landskabsbilleder. Der er dog mange droner på markedet, så hvordan kan du finde ud af, hvad der er den bedste for dig? Her har du en liste med de bedste DJI droner, samt en liste over deres funktioner og fordele.
 
-## 1. DJI Mavic 2 Pro
+## 1. DJI Mavic 2 Pro - Fly More Combo
 
 ![DJI Mavic 2 Pro](./Mavic-2-pro-3-768x768.jpg)
 
@@ -68,7 +68,7 @@ allowfullscreen></iframe>
 	text-decoration:none;
 	text-shadow:0px 1px 0px #2f6627;" >Tjek Pris Her</a>
 
-## 2. DJI Mavic 2 Zoom
+## 2. DJI Mavic 2 Zoom - Fly More Combo
 
 ![DJI Mavic 2 Zoom](./Mavic-2-zoom-3-768x768.jpg)
 
@@ -126,7 +126,7 @@ allowfullscreen></iframe>
 	text-decoration:none;
 	text-shadow:0px 1px 0px #2f6627;" >Tjek Pris Her</a>
 
-## 3. DJI Mavic Air
+## 3. DJI Mavic Air - Fly More Combo
 
 ![DJI Mavic Air](./dji-mavic-air-onyx-black-drone.jpg)
 
@@ -184,7 +184,7 @@ allowfullscreen></iframe>
 	text-decoration:none;
 	text-shadow:0px 1px 0px #2f6627;" >Tjek Pris Her</a>
 
-## 4. DJI Mavic Pro Platinum
+## 4. DJI Mavic Pro Platinum - Fly More Combo
 
 ![DJI Mavic Pro Platinum](./DJI-Mavic-Pro-Platinum.jpg)
 
