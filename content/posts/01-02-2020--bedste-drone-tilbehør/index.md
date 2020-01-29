@@ -39,7 +39,7 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 allowfullscreen></iframe>
 </div>
 
-<a href="#" target="_blank"  style="background-color:#f44336; 
+<a href="https://track.adtraction.com/t/t?a=1319510587&as=1433021260&t=2&tk=1&url=https://www.computersalg.dk/i/4812607/dji-intelligent-flight-battery?sq=Mavic+2+Intelligent+Flight+Battery" target="_blank"  style="background-color:#f44336; 
 	border-radius:28px;
 	border:1px solid #f44336;
 	display:inline-block;
@@ -75,7 +75,7 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 allowfullscreen></iframe>
 </div>
 
-<a href="#" target="_blank"  style="background-color:#f44336; 
+<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=29353&bannerid=67757&htmlurl=https://www.proshop.dk/Fotofiltre/DJI-ND-Filters-Set-ND481632/2696578" target="_blank"  style="background-color:#f44336; 
 	border-radius:28px;
 	border:1px solid #f44336;
 	display:inline-block;
@@ -91,31 +91,11 @@ allowfullscreen></iframe>
 
 ![DJI Skuldertaske](./dji-skuldertaske.jpg)
 
-DJI Mavic Air er mere den mest forbrugervenlige i forhold til de andre modeller. Det skyldes den er mindre og er nemmere at bære rundt på så.
+DJI Skuldertaske er en moderne og kompakt taske som er meget praktisk til at bærer rundt på dit drone udstyr. Den har to lommer som kan bruges til at opbevare din fjernstyret controller.
 
-I forhold til hvor svært det er at flyve drone kan det siges med det samme at det ikke blive noget problem.
+På forsiden finder du en lomme som kan lynes op. Her kan du opbevarer dine micro sd kort eller ND filtre. Du kan også opbevarer op til fire batterier i tasken.
 
-Dens tophastighed 42 km/t og dens flyvetid i følge DJI når lige op på 21 min. Dertil har den 3 sensorer, 2 i fronten, 2 i bagenden og 2 i bunden som hjælper med undgå sammenstød.
-
-Den har 8gb lagerplads og du kan tilføje et sd kort. Kammeraet kan tage flottet panorama billeder og kvalitet er i top.
-
-DJI Mavic Air er et godt alternativ for dig som lige er startet med at flyve med droner og ikke er parat til at gå efter de dyrere DJI droner.
-
-DJI Mavic Air har en god balance i forhold til pris, ydeevne og kvalitet.
-
-Pros
-
-- Lille og nem at bære rundt på
-- forbedret flyvetid
-- God for nybegyndere
-- Billeder og video i 4k
-
-Cons
-
-- 21 min. flyvetid mindre end Mavic pro
-- Kortere flyve distance
-
-### Videoanmeldelse
+#### Video som viser hvordan du pakker dit udstyr i skuldertasken
 
 <div style="position: relative
         paddingBottom: 56.25% /* 16:9 */,
@@ -133,7 +113,7 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 allowfullscreen></iframe>
 </div>
 
-<a href="#" target="_blank"  style="background-color:#f44336; 
+<a href="https://track.adtraction.com/t/t?a=1319510587&as=1433021260&t=2&tk=1&url=https://www.computersalg.dk/i/4718437/dji-skuldertaske-til-drone?sq=dji+skulder" target="_blank"  style="background-color:#f44336; 
 	border-radius:28px;
 	border:1px solid #f44336;
 	display:inline-block;
@@ -145,57 +125,19 @@ allowfullscreen></iframe>
 	text-decoration:none;
 	text-shadow:0px 1px 0px #2f6627;" >Tjek Pris Her</a>
 
-### 4. SanDisk Extreme Pro - 128GB
+### 4. Kingston Micro SD Kort - 32GB
 
-![Micro sd kort](./sandisk.jpg)
+![Micro sd kort](./Kingston-SD-kort-32mb-768x768.jpg)
 
-Mavic Pro Platinum har en lysere design end den originale Mavic Pro, men er ellers fysisk identisk.
+Når det kommer til mikro sd kort er der nogle ting du bør være klar over. Det skyldes man ikke kun skal holde øje med hvor meget lagerplads den, men også hvor hurtig hukommelseskortet er.
 
-DJI Mavic Pro Platinum er super nem og flyve og har også et begynder niveau for dem som lige at startet med at flyve med droner.
+![Micro sd kort specifikation](./Kingston-SD-kort-32mb-pack.jpg)
 
-Den har lys hjælper dig med at orientere flyets retning, når du flyve med dronen.
+På pakken kan man se der "U3" og "V30". Disse to specifikationer indikerer at data hurtigt kan blive transporteret til dit hukkommelseskortet når du filmer med din drone i 4K opløsning.
 
-Kameraet kan tage billeder i 4k og er nem at bære rundt på. Når den foldes, passer Mavic Pro let i en kamerataske.
+Hvis du køber en DJI Mavic 2 med <a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=29353&bannerid=55216&htmlurl=https://www.hubshop.dk/shop/dji-mavic-2-pro-combo-startpakke/" target="_blank">fly more combo</a> vil du få et gratis sd kort inkluderet.
 
-Plastikcoveret, der beskytter kameraet, kan være på eller fjernes under flyvning.
-
-Dens flyvetid er i følge DJI på omkring 30 min. Dronens støjniveau er væsentlig mindre end tidligere versioner.
-
-Controlleren, der følger med Mavic pro platinum, er også den samme enhed, du får med den originale Mavic pro.
-
-Sensorerne er placeret i bunden og i front som hjælper med at undgå koalitioner.
-
-DJI Mavic Pro Platinum er en fantastisk drone, du kan købe og et god valg for de fleste luftfotografer.
-
-Pros
-
-- Mindre støjende
-- Øget flyvetid
-- 4k video
-
-Cons
-
-- Har ikke sensorer i bagenden
-
-### Videoanmeldelse
-
-<div style="position: relative
-        paddingBottom: 56.25% /* 16:9 */,
-        paddingTop: 25,
-        height: 0">
-
- <iframe width="340" height="200" style="          position: absolute,
-          top: 0,
-          left: 0,
-          width: 100%,
-          height: 100%"
-src="https://www.youtube.com/embed/yg6EXVXwwK4" SameSite=None
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
-</div>
-
-<a href="#" target="_blank"  style="background-color:#f44336; 
+<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=29353&bannerid=55216&htmlurl=https://www.hubshop.dk/shop/kingston-micro-sd-kort-32gb-inkl-adaptor/" target="_blank"  style="background-color:#f44336; 
 	border-radius:28px;
 	border:1px solid #f44336;
 	display:inline-block;
@@ -211,33 +153,7 @@ allowfullscreen></iframe>
 
 ![DJI Ladehub](./dji-mavic-2-ladehub-2-768x768.jpg)
 
-Mavic Pro Platinum har en lysere design end den originale Mavic Pro, men er ellers fysisk identisk.
-
-DJI Mavic Pro Platinum er super nem og flyve og har også et begynder niveau for dem som lige at startet med at flyve med droner.
-
-Den har lys hjælper dig med at orientere flyets retning, når du flyve med dronen.
-
-Kameraet kan tage billeder i 4k og er nem at bære rundt på. Når den foldes, passer Mavic Pro let i en kamerataske.
-
-Plastikcoveret, der beskytter kameraet, kan være på eller fjernes under flyvning.
-
-Dens flyvetid er i følge DJI på omkring 30 min. Dronens støjniveau er væsentlig mindre end tidligere versioner.
-
-Controlleren, der følger med Mavic pro platinum, er også den samme enhed, du får med den originale Mavic pro.
-
-Sensorerne er placeret i bunden og i front som hjælper med at undgå koalitioner.
-
-DJI Mavic Pro Platinum er en fantastisk drone, du kan købe og et god valg for de fleste luftfotografer.
-
-Pros
-
-- Mindre støjende
-- Øget flyvetid
-- 4k video
-
-Cons
-
-- Har ikke sensorer i bagenden
+Med en ladehub, kan du oplade op til 4 drone batterier på én gang. Ladehub’en kan foldes sammen så den fylder mindre og kan samtidig opbevares i din DJI skulder taske.
 
 #### Video om hvordan man oplader med ladehuben.
 
@@ -257,7 +173,7 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 allowfullscreen></iframe>
 </div>
 
-<a href="#" target="_blank"  style="background-color:#f44336; 
+<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=29353&bannerid=55216&htmlurl=https://www.hubshop.dk/shop/ladehub-til-mavic-2/" target="_blank"  style="background-color:#f44336; 
 	border-radius:28px;
 	border:1px solid #f44336;
 	display:inline-block;
@@ -269,4 +185,4 @@ allowfullscreen></iframe>
 	text-decoration:none;
 	text-shadow:0px 1px 0px #2f6627;" >Tjek Pris Her</a> <br> <br>
 
-<a href="https://bedstedronetilprisen/bedste-drone-til-prisen">Tjek vores bud på de bedste droner til prisen</a>
+<a href="https://bedstedronetilprisen.dk/bedste-drone-til-prisen">Tjek vores bud på de bedste droner til prisen</a>
