@@ -1,6 +1,6 @@
 ---
 title: Bedste Drone tilbehør for DJI Mavic 2
-cover: jakob-owens-w2wBLTtvMMY-unsplash.jpg
+cover: aaron-burden-cKdqPpL1EuY-unsplash.jpg
 ---
 
 Drone tilbehør kan forbedre din oplevelse når du er ude og flyve med din drone. Vi har derfor lavet en liste over de fem bedste drone tilbehør til din DJI Mavic 2 Pro. Med dem vil din drone oplevelse blive taget til det næste niveau.
