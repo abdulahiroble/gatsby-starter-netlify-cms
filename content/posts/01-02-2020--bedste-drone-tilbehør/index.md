@@ -129,7 +129,7 @@ allowfullscreen></iframe>
 
 ![Micro sd kort](./Kingston-SD-kort-32mb-768x768.jpg)
 
-Når det kommer til mikro sd kort er der nogle ting du bør være klar over. Det skyldes man ikke kun skal holde øje med hvor meget lagerplads den, men også hvor hurtig hukommelseskortet er.
+Når det kommer til mikro sd kort er der nogle ting du bør være klar over. Det skyldes man ikke kun skal holde øje med hvor meget lagerplads hukommelseskortet har, men også hvor hurtig den er til at transportere data.
 
 ![Micro sd kort specifikation](./Kingston-SD-kort-32mb-pack.jpg)
 
