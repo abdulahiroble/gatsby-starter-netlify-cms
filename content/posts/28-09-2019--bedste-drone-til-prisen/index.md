@@ -66,7 +66,7 @@ allowfullscreen></iframe>
 	font-size:17px;
 	padding:16px 31px;
 	text-decoration:none;
-	text-shadow:0px 1px 0px #2f6627;" >Tjek Pris Her</a>
+	text-shadow:0px 1px 0px #2f6627;" >Tjek DJI Mavic Pro Pris</a>
 
 ## 2. DJI Mavic 2 Zoom - Fly More Combo
 
@@ -124,7 +124,7 @@ allowfullscreen></iframe>
 	font-size:17px;
 	padding:16px 31px;
 	text-decoration:none;
-	text-shadow:0px 1px 0px #2f6627;" >Tjek Pris Her</a>
+	text-shadow:0px 1px 0px #2f6627;" >Tjek DJI Mavic 2 Zoom Pris</a>
 
 ## 3. DJI Mavic Air - Fly More Combo
 
@@ -182,7 +182,7 @@ allowfullscreen></iframe>
 	font-size:17px;
 	padding:16px 31px;
 	text-decoration:none;
-	text-shadow:0px 1px 0px #2f6627;" >Tjek Pris Her</a>
+	text-shadow:0px 1px 0px #2f6627;" >Tjek DJI Mavic Air Pris</a>
 
 ## 5. DJI Mavic Mini - Fly More Combo
 
@@ -238,7 +238,7 @@ allowfullscreen></iframe>
 	font-size:17px;
 	padding:16px 31px;
 	text-decoration:none;
-	text-shadow:0px 1px 0px #2f6627;" >Tjek Pris Her</a>
+	text-shadow:0px 1px 0px #2f6627;" >Tjek DJI Mavic Mini Pris</a>
 
 ## 4. DJI Mavic Pro Platinum - Fly More Combo
 
@@ -300,4 +300,4 @@ allowfullscreen></iframe>
 	font-size:17px;
 	padding:16px 31px;
 	text-decoration:none;
-	text-shadow:0px 1px 0px #2f6627;" >Tjek Pris Her</a>
+	text-shadow:0px 1px 0px #2f6627;" >Tjek DJI Mavic Pro Platinum Pris</a>
