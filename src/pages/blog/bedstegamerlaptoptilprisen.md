@@ -62,7 +62,9 @@ allowfullscreen></iframe>
 
 ## Benchmark
 
-<img src="/img/razer-blade-benchmark.jpg" sizes="891x471">
+<img src="/img/razer-blade-benchmark.png" sizes="891x471">
+
+<br/> <br/>
 
 <div class="has-text-centered">
 <a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=29353&bannerid=67757&htmlurl=https://www.proshop.dk/Baerbar/Razer-Blade-15616GB512GB-SSDi7-9750HRTX2080/2787796" target="_blank"  style="background-color:#f44336; 
