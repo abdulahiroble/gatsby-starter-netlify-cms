@@ -40,7 +40,7 @@ Det fulde 4K-berøringsskærm gør det fantastisk især for dem som ønsker at s
 - Nogle Razer-værktøjer har stadig brug for en internetforbindelse for at fungerer.
 - Du har ikke en SD- eller fingeraftrykslæser
 
-### Video Review af Acer Predator Helios 300
+#### Video anmeldelse af Razer Blade 15
 
 <div style="position: relative
         paddingBottom: 56.25% /* 16:9 */,
@@ -106,7 +106,7 @@ Du får også forbløffende køling, 8 timers batteri, tordenboltforbindelse og 
 - Du får en masse chassisfleks
 - Kan blive varm, mens du spiller spil
 
-### Video Review af MSI GS65 Stealth
+#### Video anmeldelse af MSI GS65 Stealth
 
  <iframe width="340" height="200" style="          position: absolute,
           top: 0,
@@ -166,7 +166,7 @@ Det viser helt klart den fantastiske værdi. Det har også fremragende kølesupp
 - Temmelig stor
 - Den har ikke den bedste batterilevetid
 
-### Video Review af Acer Predator Triton 500
+#### Video anmeldelse af Acer Predator Triton 500
 
  <iframe width="340" height="200" style="          position: absolute,
           top: 0,
@@ -221,7 +221,7 @@ Generelt er det et godt valg for dem som lige er begyndt at game på laptop.
 - Positionering af webcam er ikke den bedste
 - Batteriets levetid er ret kort, under 6 timer i mange test
 
-### Video Review af Acer Predator Triton 500
+#### Video anmeldelse af Lenovo Legion Y740
 
  <iframe width="340" height="200" style="          position: absolute,
           top: 0,
@@ -276,7 +276,7 @@ Dertil kommer, at 32 GB RAM og 1 TB NVME og 2 TB lager. Køling er imponerende, 
 - Ingen almindelig HDD inkluderet
 - Ingen support til gen 2 USB type C eller thunderbolt
 
-### Video Review af Acer Predator Helios 300
+#### Video anmeldelse af Acer Predator Helios 300
 
 <div style="position: relative
         paddingBottom: 56.25% /* 16:9 */,
