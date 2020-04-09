@@ -1,5 +1,5 @@
 ---
-title: Bedste Drone til Prisen
+title: Bedste Drone til Prisen 2020
 cover: drone-2724257_1920.jpg
 ---
 
