@@ -1,7 +1,7 @@
 ---
 templateKey: "blog-post"
-title: "Bedste Gamer Headset 2019"
-date: 2019-12-15T15:04:10.000Z
+title: "Bedste Gamer Headset 2020"
+date: 2020-02-15T15:04:10.000Z
 featuredpost: true
 featuredimage: /img/unsplash.jpg
 description: >-
