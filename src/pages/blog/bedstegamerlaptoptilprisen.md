@@ -298,7 +298,7 @@ allowfullscreen></iframe>
 <br/> <br/>
 
 <div class="has-text-centered">
-<a href="https://www.proshop.dk/Baerbar/Acer-Predator-Helios-300-PH317-53-76EK/2778571?paid=29353&utm_source=partner-ads&utm_medium=cpc&utm_campaign=29353" target="_blank"  style="background-color:#f44336; 
+<a href="https://track.adtraction.com/t/t?a=1319510587&as=1433021260&t=2&tk=1&url=https://www.computersalg.dk/i/5626784/acer-predator-helios-300-ph315-52?sq=acer+predator+H" target="_blank"  style="background-color:#f44336; 
 	border-radius:28px;
 	border:1px solid #f44336;
 	display:inline-block;
