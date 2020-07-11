@@ -77,7 +77,8 @@ Kraftfuld gamer laptop med effektiv kølingssystem hvis lyd kan blive ret højt 
 <br>
 
 <div class="has-text-centered">
-<a href="https://track.adtraction.com/t/t?a=1319510587&as=1433021260&t=2&tk=1&url=https://www.computersalg.dk/i/5626784/acer-predator-helios-300-ph315-52?sq=acer%20helios%20#specsarea" target="_blank"  style="background-color:#f44336; 
+<a href="https://track.adtraction.com/t/t?a=1319510587&as=1433021260&t=2&tk=1&url=https://www.computersalg.dk/i/5626784/acer-predator-helios-300-ph315-52?sq=acer+predator+H
+" target="_blank"  style="background-color:#f44336; 
 	border-radius:28px;
 	border:1px solid #f44336;
 	display:inline-block;
@@ -88,20 +89,4 @@ Kraftfuld gamer laptop med effektiv kølingssystem hvis lyd kan blive ret højt 
 	padding:16px 31px;
 	text-decoration:none;
 	text-shadow:0px 1px 0px #2f6627;" >Tjek Pris Her - Computersalg</a>
-</div>
-
-<br>
-
-<div class="has-text-centered">
-<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=29353&bannerid=67757&htmlurl=https://www.proshop.dk/Baerbar/Acer-Predator-Helios-300-PH317-53-76EK/2778571" target="_blank"  style="background-color:#f44336; 
-	border-radius:28px;
-	border:1px solid #f44336;
-	display:inline-block;
-	cursor:pointer;
-	color:#ffffff;
-	font-family:Arial;
-	font-size:17px;
-	padding:16px 31px;
-	text-decoration:none;
-	text-shadow:0px 1px 0px #2f6627;" >Tjek Pris - Proshop.dk</a>
 </div>
