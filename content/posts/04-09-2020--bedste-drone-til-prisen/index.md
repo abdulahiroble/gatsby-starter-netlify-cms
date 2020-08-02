@@ -1,9 +1,9 @@
 ---
-title: Bedste Drone til Prisen 2020
+title: Bedste Drone 2020
 cover: drone-2724257_1920.jpg
 ---
 
-At flyve med droner er en spændende oplevelse, og det kan også hjælpe dig med at tage flotte landskabsbilleder. Der er dog mange droner på markedet, så hvordan kan du finde ud af, hvad der er den bedste for dig? Her har du en liste med de bedste DJI droner, samt en liste over deres funktioner og fordele.
+At flyve med droner er en spændende oplevelse, fordi du kan tage flotte landskabsbilleder. Der er dog mange droner på markedet, så hvordan kan du finde ud af, hvad der er den bedste for dig? Her har du en liste med de bedste DJI droner i 2020, hvor vi kommer ind på deres funktioner og hvilke fordele de hver og især har.
 
 ## 1. DJI Mavic 2 Pro - Fly More Combo
 
