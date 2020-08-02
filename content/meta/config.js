@@ -5,7 +5,7 @@ module.exports = {
   siteUrl: "https://bedstedronetilprisen.dk/",
   // pathPrefix: "",
   // siteImage: "preview.jpg",
-  siteLanguage: "da",
+  siteLanguage: "de",
 
   /* author */
   // authorName: "greg lobinski",
