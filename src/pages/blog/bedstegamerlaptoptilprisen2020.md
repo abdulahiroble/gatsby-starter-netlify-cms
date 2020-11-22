@@ -1,7 +1,7 @@
 ---
 templateKey: "blog-post"
 title: "Bedste Gamer Laptop til Prisen 2020"
-date: 2020-04-09T15:04:10.000Z
+date: 2020-11-09T15:04:10.000Z
 featuredpost: true
 featuredimage: /img/razer-blade-15-baerbar-gaming-computer-sort.jpg
 description: >-
