@@ -27,7 +27,7 @@ Intel Core i5 (9. Gen) 9300H / 2.4 GHz (4.1 GHz)<br>
 NVIDIA GeForce GTX 1650 <br>
 Hukommelse: 8 GB DDR4 RAM <br>
 Lagerkapacitet: 512 GB SSD PCIe <br>
-<a href="https://www.computersalg.dk/i/5626781/specsarea/?utm_source=adtraction&utm_medium=affiliate&utm_campaign=adtraction&at_gd=4274E08D2B30453B4372FC9F60FBC133D9632539" target="_blank" style="text-decoration: none;">Læs mere omkring specs her</a>
+<a href="https://www.computersalg.dk/i/5626781/specsarea/?utm_source=adtraction&utm_medium=affiliate&utm_campaign=adtraction&at_gd=4274E08D2B30453B4372FC9F60FBC133D9632539" target="_blank" style="text-decoration: none;">Læs mere omkring specs her.</a>
 
 <br>
 
