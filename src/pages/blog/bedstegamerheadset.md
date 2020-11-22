@@ -41,15 +41,15 @@ Hvis du har været udkig efter en god budget gamer headset til en fornuftig pris
 
 #### Video Review - Razer Kraken X
 
-<div style="position: relative;
-        paddingBottom: 56.25% /* 16:9 */;
-        paddingTop: 25;
+<div style="position: relative
+        paddingBottom: 56.25% /* 16:9 */,
+        paddingTop: 25,
         height: 0">
 
- <iframe width="340" height="200" style="          position: absolute;
-          top: 0;
-          left: 0;
-          width: 100%;
+ <iframe width="340" height="200" style="          position: absolute,
+          top: 0,
+          left: 0,
+          width: 100%,
           height: 100%"
 src="https://www.youtube.com/embed/QDSBcaETE-Q" SameSite=None
 frameborder="0" 
@@ -90,7 +90,7 @@ Man kan argumentere for om headset pris ikke er en smule for høj. Men for et tr
 
 #### Pros
 
-- Forbedret batteri.
+- Forbedret batteri
 - Hørebøffer som kan justeres 180 grader
 - God værdi for pengene.
 
@@ -103,16 +103,16 @@ Man kan argumentere for om headset pris ikke er en smule for høj. Men for et tr
 
 #### Video Review - Corsair Virtuoso
 
-<div style="position: relative;
-        paddingBottom: 56.25% /* 16:9 */;
-        paddingTop: 25;
+<div style="position: relative
+        paddingBottom: 56.25% /* 16:9 */,
+        paddingTop: 25,
         height: 0">
 
- <iframe width="340" height="200" style="          position: absolute;
-          top: 0;
-          left: 0;
-          width: 100%;
-          height: 100%;"
+ <iframe width="340" height="200" style="          position: absolute,
+          top: 0,
+          left: 0,
+          width: 100%,
+          height: 100%"
 src="https://www.youtube.com/embed/hXw_kI1tKvs" SameSite=None
 frameborder="0" 
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
@@ -164,15 +164,15 @@ Prisen på headset er god taget i betragtning af hvor meget værdi du får for p
 
 #### Video Review - HyperX Cloud Orbit S
 
-<div style="position: relative;
-        paddingBottom: 56.25% /* 16:9 */;
-        paddingTop: 25;
+<div style="position: relative
+        paddingBottom: 56.25% /* 16:9 */,
+        paddingTop: 25,
         height: 0">
 
- <iframe width="340" height="200" style="          position: absolute;
-          top: 0;
-          left: 0;
-          width: 100%;
+ <iframe width="340" height="200" style="          position: absolute,
+          top: 0,
+          left: 0,
+          width: 100%,
           height: 100%"
 src="https://www.youtube.com/embed/eOcROk4djB8" SameSite=None
 frameborder="0" 
@@ -227,15 +227,15 @@ Med et komfortabelt design, fremragende lydkvalitet samt god pris er headsettet 
 
 #### Video Review - Logitech G Pro X
 
-<div style="position: relative;
-        paddingBottom: 56.25% /* 16:9 */;
-        paddingTop: 25;
+<div style="position: relative
+        paddingBottom: 56.25% /* 16:9 */,
+        paddingTop: 25,
         height: 0">
 
- <iframe width="340" height="200" style="          position: absolute;
-          top: 0;
-          left: 0;
-          width: 100%;
+ <iframe width="340" height="200" style="          position: absolute,
+          top: 0,
+          left: 0,
+          width: 100%,
           height: 100%"
 src="https://www.youtube.com/embed/_8nBLX9rDWI" SameSite=None
 frameborder="0" 
