@@ -14,7 +14,7 @@ tags:
 
 ![Acer Predator Helios 300](/img/helios.jpg)
 
-Acer Predator Helios 300 er en ny og forbedret version sammenlignet med sidste års model. Den er en meget populær gamer laptop af flere årsager. Et af de vigtigste grunde er at den er kraftfuld, har et godt kølingssystem samt har en god pris.
+Acer Predator Helios 300 er en ny og forbedret version sammenlignet med sidste års model. Den er en meget populær gamer laptop af flere årsager. Et af de vigtigste grunde er at den er kraftfuld har et godt kølingssystem samt har en god pris.
 
 ## Design
 
@@ -48,15 +48,15 @@ Lagerkapacitet: 512 GB SSD NVMe <br>
 
 ### Video Review af Acer Predator Helios 300
 
-<div style="position: relative
-        paddingBottom: 56.25% /* 16:9 */,
-        paddingTop: 25,
+<div style="position: relative;
+        paddingBottom: 56.25% /* 16:9 */;
+        paddingTop: 25;
         height: 0">
 
- <iframe width="340" height="200" style="          position: absolute,
-          top: 0,
-          left: 0,
-          width: 100%,
+ <iframe width="340" height="200" style="          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
           height: 100%"
 src="https://www.youtube.com/embed/OwbbyaRvHFE" SameSite=None
 frameborder="0" 
