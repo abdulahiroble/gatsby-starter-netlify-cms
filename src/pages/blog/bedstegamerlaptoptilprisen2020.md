@@ -42,15 +42,15 @@ Det fulde 4K-berøringsskærm gør det fantastisk især for dem som ønsker at s
 
 #### Video anmeldelse af Razer Blade 15
 
-<div style="position: relative
-        paddingBottom: 56.25% /* 16:9 */,
-        paddingTop: 25,
+<div style="position: relative;
+        paddingBottom: 56.25% /* 16:9 */;
+        paddingTop: 25;
         height: 0">
 
- <iframe width="340" height="200" style="          position: absolute,
-          top: 0,
-          left: 0,
-          width: 100%,
+ <iframe width="340" height="200" style="          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
           height: 100%"
 src="https://www.youtube.com/embed/t1pJqIkLIeY" SameSite=None
 frameborder="0" 
@@ -78,7 +78,7 @@ allowfullscreen></iframe>
 
 ![MSI GS65 Stealth](/img/MSI-GS65-Stealth-9SF-630NE.jpg)
 
-MSI GS65 Stealth er en meget tynd bærbar computer, som du kan medbringe med dig overalt, hvor du går. Og det skubber bestemt grænserne, når det kommer til at være tynd i forhold hvor mange hestekræfter den har.
+MSI GS65 Stealth er en meget tynd bærbar computer; som du kan medbringe med dig overalt, hvor du går. Og det skubber bestemt grænserne, når det kommer til at være tynd i forhold hvor mange hestekræfter den har.
 
 <h4>Hvem er denne endhed til?</h4> Hvem det er til afhænger af situationen. Hovedfokus for denne enhed er at tilbyde gamers en meget god spil oplevelse.
 
@@ -108,10 +108,10 @@ Du får også forbløffende køling, 8 timers batteri, tordenboltforbindelse og 
 
 #### Video anmeldelse af MSI GS65 Stealth
 
- <iframe width="340" height="200" style="          position: absolute,
-          top: 0,
-          left: 0,
-          width: 100%,
+ <iframe width="340" height="200" style="          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
           height: 100%"
 src="https://www.youtube.com/embed/uAUub6LPKBU" SameSite=None
 frameborder="0" 
@@ -168,10 +168,10 @@ Det viser helt klart den fantastiske værdi. Det har også fremragende kølesupp
 
 #### Video anmeldelse af Acer Predator Triton 500
 
- <iframe width="340" height="200" style="          position: absolute,
-          top: 0,
-          left: 0,
-          width: 100%,
+ <iframe width="340" height="200" style="          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
           height: 100%"
 src="https://www.youtube.com/embed/revx1UiN4wk" SameSite=None
 frameborder="0" 
@@ -224,10 +224,10 @@ Generelt er det et godt valg for dem som lige er begyndt at game på laptop.
 
 #### Video anmeldelse af Lenovo Legion Y740
 
- <iframe width="340" height="200" style="          position: absolute,
-          top: 0,
-          left: 0,
-          width: 100%,
+ <iframe width="340" height="200" style="          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
           height: 100%"
 src="https://www.youtube.com/embed/dqwMpulffcQ" SameSite=None
 frameborder="0" 
@@ -279,15 +279,15 @@ Dertil kommer, at 32 GB RAM og 1 TB NVME og 2 TB lager. Køling er imponerende, 
 
 #### Video anmeldelse af Acer Predator Helios 300
 
-<div style="position: relative
-        paddingBottom: 56.25% /* 16:9 */,
-        paddingTop: 25,
+<div style="position: relative;
+        paddingBottom: 56.25% /* 16:9 */;
+        paddingTop: 25;
         height: 0">
 
- <iframe width="340" height="200" style="          position: absolute,
-          top: 0,
-          left: 0,
-          width: 100%,
+ <iframe width="340" height="200" style="          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
           height: 100%"
 src="https://www.youtube.com/embed/OwbbyaRvHFE" SameSite=None
 frameborder="0" 
