@@ -90,7 +90,7 @@ Man kan argumentere for om headset pris ikke er en smule for høj. Men for et tr
 
 #### Pros
 
-- Forbedret batteri
+- Forbedret batteri.
 - Hørebøffer som kan justeres 180 grader
 - God værdi for pengene.
 
