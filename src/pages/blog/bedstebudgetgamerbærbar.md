@@ -46,15 +46,15 @@ Lagerkapacitet: 512 GB SSD PCIe <br>
 
 ### Video Review af Acer Nitro 5
 
-<div style="position: relative;
-        paddingBottom: 56.25% /* 16:9 */;
-        paddingTop: 25;
+<div style="position: relative
+        paddingBottom: 56.25% /* 16:9 */,
+        paddingTop: 25,
         height: 0">
 
- <iframe width="340" height="200" style="          position: absolute;
-          top: 0;
-          left: 0;
-          width: 100%;
+ <iframe width="340" height="200" style="          position: absolute,
+          top: 0,
+          left: 0,
+          width: 100%,
           height: 100%"
 src="https://www.youtube.com/embed/4JBi48wNTIk" SameSite=None
 frameborder="0" 
