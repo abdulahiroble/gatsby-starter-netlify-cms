@@ -223,7 +223,7 @@ Med et komfortabelt design, fremragende lydkvalitet samt god pris er headsettet 
 
 #### Cons
 
-- ikke trådløs
+- ikke trådløs.
 
 #### Video Review - Logitech G Pro X
 
