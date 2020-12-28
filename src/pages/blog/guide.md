@@ -18,7 +18,7 @@ tags:
 
 Før du begynder at lede efter en gamer laptop så prøv til at starte med at tænk over hvad det egentlig er du søger efter.
 
-Når alt kommer til alt hvis du køber en gaming laptop, der ikke kan levere den ydelse, der kræves for de spil, du har købt den til at spille, er det lidt spild af penge.
+Når alt kommer til alt, hvis du køber en gaming laptop, der ikke kan levere den ydelse, der kræves for de spil, du har købt den til at spille, er det lidt spild af penge.
 
 ## 2. Find en god processor
 
@@ -36,16 +36,16 @@ Det er super nemt at opgradere dens RAM hvis du har en Acer gamer bærbar.
 
 Her er en video som viser hvordan det kan gøres hvis du eksempelvis har en Acer Nitro 5 gamer bærbar:
 
-<div style="position: relative;
-        paddingBottom: 56.25% /* 16:9 */;
-        paddingTop: 25;
+<div style="position: relative
+        paddingBottom: 56.25% /* 16:9 */,
+        paddingTop: 25,
         height: 0">
 
- <iframe width="340" height="200" style=" position: absolute;
-          top: 0;
-          left: 0;
-          width: 100%;
-          height: 100%;"
+ <iframe width="340" height="200" style="          position: absolute,
+          top: 0,
+          left: 0,
+          width: 100%,
+          height: 100%"
 src="https://www.youtube.com/embed/JZykyAW9PYY" SameSite=None
 frameborder="0" 
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
@@ -70,10 +70,10 @@ Det bedste er nok en kombination af begge hvor SSD bliver brugt til at loade win
 
 Hvis du har en Acer gamer bærbar kan du opgradere dens hardisk. Her er en video som viser hvor let det kan gøres.
 
- <iframe width="340" height="200" style="          position: absolute;
-          top: 0;
-          left: 0;
-          width: 100%;
+ <iframe width="340" height="200" style="          position: absolute,
+          top: 0,
+          left: 0,
+          width: 100%,
           height: 100%"
 src="https://www.youtube.com/embed/1QmvTcGbtwc" SameSite=None
 frameborder="0" 
