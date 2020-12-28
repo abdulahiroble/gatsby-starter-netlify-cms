@@ -73,7 +73,6 @@ allowfullscreen></iframe>
 ## Konklusion
 
 Kraftfuld gamer laptop med effektiv kølingssystem hvis lyd kan blive ret højt hvis du skruer fanen op til turbo mode.
-
 <br>
 
 <div class="has-text-centered">
