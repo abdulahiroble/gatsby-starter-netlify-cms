@@ -29,7 +29,6 @@ Intel Core i7 (9. Gen) 9750H / 2.6 GHz (4.5 GHz)<br>
 NVIDIA GeForce RTX 2060 <br>
 Hukommelse: 16 GB DDR4 RAM <br>
 Lagerkapacitet: 512 GB SSD NVMe <br>
-<a href="https://www.computersalg.dk/i/5626784/acer-predator-helios-300-ph315-52?sq=acer%20helios%20&utm_source=adtraction&utm_medium=affiliate&utm_campaign=adtraction&at_gd=4274E08D2B30453B4372FC9F60FBC133D9632539#specsarea" target="_blank" style="text-decoration: none;">Læs mere omkring specs her</a>
 
 <br>
 
@@ -86,5 +85,5 @@ Kraftfuld gamer laptop med effektiv kølingssystem hvis lyd kan blive ret højt 
 	font-size:17px;
 	padding:16px 31px;
 	text-decoration:none;
-	text-shadow:0px 1px 0px #2f6627;" >Tjek Pris Her - Computersalg</a>
+	text-shadow:0px 1px 0px #2f6627;" >Køber - Acer Predator Helios 300</a>
 </div>
