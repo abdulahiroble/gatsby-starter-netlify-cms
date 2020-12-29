@@ -1,11 +1,11 @@
 ---
 templateKey: "blog-post"
 title: "Bedste Gamer Laptop til Prisen 2020"
-date: 2020-04-09T15:04:10.000Z
+date: 2020-12-15T15:04:10.000Z
 featuredpost: true
-featuredimage: /img/razer-blade-15-baerbar-gaming-computer-sort.jpg
+featuredimage: /img/razer-blade-15-base.jpg
 description: >-
-  Med så mange gamer laptops på markedet kan det være meget udfordrende at finde en god enhed, der passer til dine behov. Derfor er det en meget god ide at fokusere på kvalitet, og hvilken værdi du får for pengene. Med det i tankerne oprettede vi en liste med 5 forskellige gamer laptops, der hjælper dig med at få den bedste spil oplevelse til en god pris.
+  Med så mange gamer laptops på markedet kan det være meget udfordrende at finde en god enhed, der passer til dine behov. Derfor er det en meget god ide at fokusere på kvalitet, og hvilken værdi du får for pengene. Med det i tankerne oprettede vi en liste med 3 forskellige gamer laptops, der hjælper dig med at få den bedste spil oplevelse til en god pris.
 
 tags:
   - Razer Blade 15
@@ -17,7 +17,7 @@ tags:
 
 ## 1. Razer Blade 15
 
-![Razer Blade 15](/img/razer-blade-15-baerbar-gaming-computer-sort.jpg)
+![Razer Blade 15](/img/razer-blade-15-base.jpg)
 
 Razer Blade 15 er verdens mindste gaming-bærbare computer, men det gode ved det er, at det har masser af funktionaliteter som vil overraske dig.
 
@@ -25,9 +25,17 @@ Razer Blade 15 er designet til spillere, der er på farten, men det kan nemt ogs
 
 Det har RGB, så du nemt kan arbejde eller bruge det om natten. Og oven på det er det ekstremt praktisk og tilpasningsdygtigt til dine egne krav. Dertil har den også en berøringsskærm. <br/>
 
-Specifikationerne er store, da Razer Blade 15 leveres med en 9. generation af Intel Core i &, op til 144 eller endda 240 Hz skærm, 4k skærmopløsning, RTX 2080, enkelt opbevaring eller dobbelt opbevaring, 16 GB RAM, ethernet support , det er meget tyndt, og det har et lille fodaftryk.
+Specifikationerne er store, da Razer Blade 15 leveres med en 10. generation af Intel Core i &, op til 144, RTX 2070, enkelt opbevaring eller dobbelt opbevaring, 16 GB RAM, ethernet support , det er meget tyndt, og det har et lille fodaftryk.
 
-Det fulde 4K-berøringsskærm gør det fantastisk især for dem som ønsker at spille deres spil i højeste kvalitet. Det har også en ultra-tynd aluminiumsramme og god køling.
+Det har også en ultra-tynd aluminiumsramme og god køling.
+
+## Specs
+
+15,6" Full HD IPS-skærm (1920 x 1080) <br>
+Intel Core i7 (10. Gen) 10750H / 2.6 GHz<br>
+NVIDIA GeForce RTX 2070 <br>
+Hukommelse: 16 GB DDR4 RAM <br>
+Lagerkapacitet: 512 GB SSD NVMe <br>
 
 #### Fordele
 
@@ -39,6 +47,10 @@ Det fulde 4K-berøringsskærm gør det fantastisk især for dem som ønsker at s
 
 - Nogle Razer-værktøjer har stadig brug for en internetforbindelse for at fungerer.
 - Du har ikke en SD- eller fingeraftrykslæser
+
+### Gaming benchmark
+
+![gta](/img/gta.png) <br/> ![pubg](/img/pubg.png) <br/> ![witcher](/img/witcher.png)
 
 #### Video anmeldelse af Razer Blade 15
 
@@ -52,7 +64,7 @@ Det fulde 4K-berøringsskærm gør det fantastisk især for dem som ønsker at s
           left: 0,
           width: 100%,
           height: 100%"
-src="https://www.youtube.com/embed/t1pJqIkLIeY" SameSite=None
+src="https://www.youtube.com/embed/OyMD80HPgAo" SameSite=None
 frameborder="0" 
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
@@ -61,7 +73,7 @@ allowfullscreen></iframe>
 <br/> <br/>
 
 <div class="has-text-centered">
-<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=29353&bannerid=67757&htmlurl=https://www.proshop.dk/Baerbar/Razer-Blade-15616GB512GB-SSDi7-9750HRTX2080/2787796" target="_blank"  style="background-color:#f44336; 
+<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=29353&bannerid=67785&htmlurl=https://www.proshop.dk/Baerbar/Razer-Blade-15-Base-FHD-144Hz-with-RTX-2070/2853331" target="_blank"  style="background-color:#f44336; 
 	border-radius:28px;
 	border:1px solid #f44336;
 	display:inline-block;
@@ -71,71 +83,10 @@ allowfullscreen></iframe>
 	font-size:17px;
 	padding:16px 31px;
 	text-decoration:none;
-	text-shadow:0px 1px 0px #2f6627;" >Tjek Pris - Razer Blade 15</a>
+	text-shadow:0px 1px 0px #2f6627;" >Køb - Razer Blade 15</a>
 </div>
 
-## 2. MSI GS65 Stealth
-
-![MSI GS65 Stealth](/img/MSI-GS65-Stealth-9SF-630NE.jpg)
-
-MSI GS65 Stealth er en meget tynd bærbar computer, som du kan medbringe med dig overalt, hvor du går. Og det skubber bestemt grænserne, når det kommer til at være tynd i forhold hvor mange hestekræfter den har.
-
-<h4>Hvem er denne endhed til?</h4> Hvem det er til afhænger af situationen. Hovedfokus for denne enhed er at tilbyde gamers en meget god spil oplevelse.
-
-Mens fagfolk også kan bruge det, gør de farverige mønstre det mere attraktivt for dem som har en passion for at game på pc.
-
-MSI GS65 Stealth leveres med en GTXm 1060 TI. Desuden er Intel i7 9. generation meget kraftfuld, og den har 6 kerner, for ikke at nævne 10% mere strøm end den forrige generation.
-
-Takket være 144 Hz får du dybest set en høj opdateringsfrekvens og en forbløffende kvalitet, som du kan se, selv mens du arbejder.
-
-Selve laptopen er ret stor. Det har samme størrelse som en 14 ”enhed, men det gør skærmen større ved at reducere rammestørrelsen.
-
-Du får også forbløffende køling, 8 timers batteri, tordenboltforbindelse og mange andre. Når det kommer til andre specifikationer, får du 1 SSD og 1 SSD combo slot, 2 slots DDR4, der kan gå op til 64 GB i alt.
-
-#### Fordele
-
-- Fremragende CPU-valg
-- Meget imponerende og hurtig skærm
-- Lang batterilevetid
-- Slanke rammer
-- Imponerende lydkvalitet
-
-#### Ulemper
-
-- Hukommelsen kører ikke i dobbeltkanal
-- Du får en masse chassisfleks
-- Kan blive varm, mens du spiller spil
-
-#### Video anmeldelse af MSI GS65 Stealth
-
- <iframe width="340" height="200" style="          position: absolute,
-          top: 0,
-          left: 0,
-          width: 100%,
-          height: 100%"
-src="https://www.youtube.com/embed/uAUub6LPKBU" SameSite=None
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
-</div>
-
-<br/> <br/>
-
-<div class="has-text-centered">
-<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=29353&bannerid=67757&htmlurl=https://www.proshop.dk/Baerbar/MSI-GS65-9SF-630NE-Stealth/2809916" target="_blank"  style="background-color:#f44336; 
-	border-radius:28px;
-	border:1px solid #f44336;
-	display:inline-block;
-	cursor:pointer;
-	color:#ffffff;
-	font-family:Arial;
-	font-size:17px;
-	padding:16px 31px;
-	text-decoration:none;
-	text-shadow:0px 1px 0px #2f6627;" >Tjek Pris - MSI GS65 Stealth</a>
-</div>
-
-## 3. Acer Predator Triton 500
+## 2. Acer Predator Triton 500
 
 ![MSI GS65 Stealth](/img/2809979_013853a944a1.jpg)
 
@@ -149,22 +100,33 @@ Enheden er let, den vejer 2,1 kg, og den har et 300 Hz panel med G Sync-underst�
 
 Hvis du vil, kan du tilføje eksterne skærme til enheden, og det fungerer helt fint uden nogen bekymringer.
 
-Specifikationerne er også imponerende, du har en Core i7 9750h, en RTX 2080 samt op til 32 GB RAM og 2 forskellige SSD'er på 512 GB.
+Specifikationerne er også imponerende, du har en Core i7 10750h, en RTX 2080 Super samt op til 32 GB RAM og 1 TB SSD.
 
 Det viser helt klart den fantastiske værdi. Det har også fremragende kølesupport.
+
+## Specs
+
+15,6" Full HD IPS-skærm (1920 x 1080) <br>
+Intel Core i7 (10. Gen) 10750H / 2.6 GHz<br>
+NVIDIA GeForce RTX 2080 SUPER <br>
+Hukommelse: 32 GB DDR4 RAM <br>
+Lagerkapacitet: 1024 TB SSD NVMe <br>
 
 #### Fordele
 
 - Fantastisk kølesystem
 - Masser af ydeevne
 - Interessant hængseldesign
-- 4K berøringsskærmvisning
 
 #### Ulemper
 
 - Fanernes lyd bliver høje, mens de spiller
 - Temmelig stor
 - Den har ikke den bedste batterilevetid
+
+### Gaming benchmark
+
+![gta-bench](/img/gta-bench.png) <br/> ![pubg](/img/fortnite.png) <br/> ![witcher](/img/witcher-bench.png)
 
 #### Video anmeldelse af Acer Predator Triton 500
 
@@ -173,7 +135,7 @@ Det viser helt klart den fantastiske værdi. Det har også fremragende kølesupp
           left: 0,
           width: 100%,
           height: 100%"
-src="https://www.youtube.com/embed/revx1UiN4wk" SameSite=None
+src="https://www.youtube.com/embed/d_dNEoqJ72E" SameSite=None
 frameborder="0" 
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
@@ -182,8 +144,7 @@ allowfullscreen></iframe>
 <br/> <br/>
 
 <div class="has-text-centered">
-<a href="https://track.adtraction.com/t/t?a=1319510587&as=1433021260&t=2&tk=1&url=https://www.computersalg.dk/i/6446138/acer-predator-triton-pt515-51-749g
-" target="_blank"  style="background-color:#f44336; 
+<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=29353&bannerid=67785&htmlurl=https://www.proshop.dk/Baerbar/Acer-Predator-Triton-500-PT515-52-748T/2871217" target="_blank"  style="background-color:#f44336; 
 	border-radius:28px;
 	border:1px solid #f44336;
 	display:inline-block;
@@ -193,65 +154,10 @@ allowfullscreen></iframe>
 	font-size:17px;
 	padding:16px 31px;
 	text-decoration:none;
-	text-shadow:0px 1px 0px #2f6627;" >Tjek Pris - Acer Predator Triton 500</a>
+	text-shadow:0px 1px 0px #2f6627;" >Køb - Acer Predator Triton 500</a>
 </div>
 
-## 4. Lenovo Legion Y740
-
-![Lenovo Legion Y740](/img/2778348_4cb4e18bdea2.jpg)
-
-Lenovo Legion Y740 er en temmelig slank, let computer, som du kan bruge til spil såvel som videoredigering, mens du er på farten.
-
-Lenovo Legion Y740 er designet til at være meget let og praktisk at bære rundt på. Derudover kommer det også med ekstra funktioner såsom at være vandafvisende.
-
-Specifikationer varierer alt efter hvilken model du køber. Denne laptop er udstyret med fuld HD, 15,6 ”display, 16 GB hukommelse, 1 TB SSD, RTX 2060 grafikkort fra NVIDIA samt RGB support.
-
-Enheden er designet til at være let, det bringer en meget hurtig opdateringshastighed på 144 Hz, og den har også et termisk system. Den har vandafvisende tastatur som er meget nyttigt.
-
-Generelt er det et godt valg for dem som lige er begyndt at game på laptop.
-
-#### Fordele
-
-- GPU-ydelsen er meget imponerende
-- Fremragende skærmopløsning på 144 Hz
-- Tilpasningsbart tastatur og udluftningsfarve via RGB
-- Temmelig stille selv ved store belastninger når man spiller
-
-#### Ulemper
-
-- Positionering af webcam er ikke den bedste
-- Batteriets levetid er ret kort, under 6 timer i mange test
-
-#### Video anmeldelse af Lenovo Legion Y740
-
- <iframe width="340" height="200" style="          position: absolute,
-          top: 0,
-          left: 0,
-          width: 100%,
-          height: 100%"
-src="https://www.youtube.com/embed/dqwMpulffcQ" SameSite=None
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
-</div>
-
-<br/> <br/>
-
-<div class="has-text-centered">
-<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=29353&bannerid=67757&htmlurl=https://www.proshop.dk/Baerbar/Lenovo-Legion-Y740-17IRHg/2778348" target="_blank"  style="background-color:#f44336; 
-	border-radius:28px;
-	border:1px solid #f44336;
-	display:inline-block;
-	cursor:pointer;
-	color:#ffffff;
-	font-family:Arial;
-	font-size:17px;
-	padding:16px 31px;
-	text-decoration:none;
-	text-shadow:0px 1px 0px #2f6627;" >Tjek Pris - Lenovo Legion Y740</a>
-</div>
-
-## 5. Acer Predator Helios 300
+## 3. Acer Predator Helios 300
 
 ![Acer Predator Helios 300](/img/helios.jpg)
 
@@ -259,9 +165,17 @@ Acer Predator Helios 300, er for dig som gerne vil have en, pålidelig og bruger
 
 Dette er en gamer laptop, der kan bruges af næsten enhver, der ønsker at spille spil på farten uden at ty til lave opløsninger eller drop i framerates.
 
-Displayet er 144 Hz, og du har en fuld HD-opløsning. Det leveres også med overdrive-respons. 9. generation af Core i7 CPU er meget kraftig, det samme med den fantastiske RTX 2070 GPU fra NVIDIA, som er virkelig kraftig.
+Displayet er 144 Hz, og du har en fuld HD-opløsning. Det leveres også med overdrive-respons. 9. generation af Core i7 CPU er meget kraftig, det samme med den fantastiske GTX 1060 Ti GPU fra NVIDIA, som er virkelig kraftig.
 
-Dertil kommer, at 32 GB RAM og 1 TB NVME og 2 TB lager. Køling er imponerende, du har fuld RGB og næsten alle de værktøjer, du har brug for.
+Dertil kommer, at 16 GB RAM og 512 GB SSD lager. Køling er imponerende, du har fuld RGB og næsten alle de værktøjer, du har brug for.
+
+## Specs
+
+15,6" Full HD IPS-skærm (1920 x 1080) <br>
+Intel Core i7 (9. Gen) 9750H / 2.6 GHz (4.5 GHz)<br>
+NVIDIA GeForce RTX 2060 <br>
+Hukommelse: 16 GB DDR4 RAM <br>
+Lagerkapacitet: 512 GB SSD NVMe <br>
 
 #### Fordele
 
@@ -276,6 +190,10 @@ Dertil kommer, at 32 GB RAM og 1 TB NVME og 2 TB lager. Køling er imponerende, 
 - Kølesystemet kan være bedre
 - Ingen almindelig HDD inkluderet
 - Ingen support til gen 2 USB type C eller thunderbolt
+
+### Gaming benchmark
+
+![gta-bench](/img/gta-becn.png) <br/> ![pubg](/img/withcer-benc.png) <br/> ![witcher](/img/fort.png)
 
 #### Video anmeldelse af Acer Predator Helios 300
 
@@ -298,7 +216,7 @@ allowfullscreen></iframe>
 <br/> <br/>
 
 <div class="has-text-centered">
-<a href="https://track.adtraction.com/t/t?a=1319510587&as=1433021260&t=2&tk=1&url=https://www.computersalg.dk/i/5626784/acer-predator-helios-300-ph315-52?sq=acer+predator+H" target="_blank"  style="background-color:#f44336; 
+<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=29353&bannerid=67785&htmlurl=https://www.proshop.dk/Baerbar/Acer-Predator-Helios-300-PH315-52-7385/2869666" target="_blank"  style="background-color:#f44336; 
 	border-radius:28px;
 	border:1px solid #f44336;
 	display:inline-block;
@@ -308,7 +226,7 @@ allowfullscreen></iframe>
 	font-size:17px;
 	padding:16px 31px;
 	text-decoration:none;
-	text-shadow:0px 1px 0px #2f6627;" >Tjek Pris Her - Acer Predator Helios 300</a>
+	text-shadow:0px 1px 0px #2f6627;" >Køb - Acer Predator Helios 300</a>
 </div>
 
 <br/>

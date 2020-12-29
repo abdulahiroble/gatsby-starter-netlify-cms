@@ -1,11 +1,11 @@
 ---
 templateKey: "blog-post"
 title: "Bedste Budget Gamer Bærbar 2019"
-date: 2019-10-25T15:04:10.000Z
+date: 2020-12-10T15:04:10.000Z
 featuredpost: true
 featuredimage: /img/nitro.jpg
 description: >-
-  Selvom der kun er cirka 2 måneder tilbage af 2019 har vi her på siden valgt at komme med vi med vores bud på den bedste budget gamer bærbar i år.
+  Selvom der kun er 1 måned tilbage af 2019 har vi her på siden valgt at komme med vi med vores bud på den bedste budget gamer bærbar i år.
 tags:
   - acer nitro 5
 ---
@@ -27,7 +27,7 @@ Intel Core i5 (9. Gen) 9300H / 2.4 GHz (4.1 GHz)<br>
 NVIDIA GeForce GTX 1650 <br>
 Hukommelse: 8 GB DDR4 RAM <br>
 Lagerkapacitet: 512 GB SSD PCIe <br>
-<a href="https://www.computersalg.dk/i/5626781/specsarea/?utm_source=adtraction&utm_medium=affiliate&utm_campaign=adtraction&at_gd=4274E08D2B30453B4372FC9F60FBC133D9632539" target="_blank" style="text-decoration: none;">Læs mere omkring specs her</a>
+<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=29353&bannerid=67785&htmlurl=https://www.proshop.dk/Baerbar/Acer-Nitro-5-AN517-51-52LA/2869782" target="_blank" style="text-decoration: none;">Læs mere omkring specs her</a>
 
 <br>
 
@@ -70,20 +70,6 @@ allowfullscreen></iframe>
 
 God bærbar for pengene. Kan køre titler som fortnite på high settings og stadig havde høj fps.
 
-<div class="has-text-centered">
-<a href="https://www.computersalg.dk/i/5626781/specsarea/?utm_source=adtraction&utm_medium=affiliate&utm_campaign=adtraction&at_gd=4274E08D2B30453B4372FC9F60FBC133D9632539" target="_blank"  style="background-color:#f44336; 
-	border-radius:28px;
-	border:1px solid #f44336;
-	display:inline-block;
-	cursor:pointer;
-	color:#ffffff;
-	font-family:Arial;
-	font-size:17px;
-	padding:16px 31px;
-	text-decoration:none;
-	text-shadow:0px 1px 0px #2f6627;" >Tjek Pris - Computersalg.dk</a>
-</div>
-
 <br>
 
 <div class="has-text-centered">
@@ -97,5 +83,5 @@ God bærbar for pengene. Kan køre titler som fortnite på high settings og stad
 	font-size:17px;
 	padding:16px 31px;
 	text-decoration:none;
-	text-shadow:0px 1px 0px #2f6627;" >Tjek Pris - Proshop.dk </a>
+	text-shadow:0px 1px 0px #2f6627;" >Køb - Acer Nitro 5</a>
 </div>

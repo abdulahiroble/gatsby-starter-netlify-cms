@@ -1,11 +1,11 @@
 ---
 templateKey: "blog-post"
-title: "Bedste Gamer Bærbar 2019"
-date: 2019-10-30T15:04:10.000Z
+title: "Bedste Budget Gamer Bærbar 2020"
+date: 2020-12-13T15:04:10.000Z
 featuredpost: true
 featuredimage: /img/helios.jpg
 description: >-
-  Her er vores bud på den bedste gamer bærbar i år.
+  Her er vores bud på den bedste budget gamer bærbar i 2020.
 tags:
   - acer predator helios 300
 ---
@@ -29,7 +29,6 @@ Intel Core i7 (9. Gen) 9750H / 2.6 GHz (4.5 GHz)<br>
 NVIDIA GeForce RTX 2060 <br>
 Hukommelse: 16 GB DDR4 RAM <br>
 Lagerkapacitet: 512 GB SSD NVMe <br>
-<a href="https://www.computersalg.dk/i/5626784/acer-predator-helios-300-ph315-52?sq=acer%20helios%20&utm_source=adtraction&utm_medium=affiliate&utm_campaign=adtraction&at_gd=4274E08D2B30453B4372FC9F60FBC133D9632539#specsarea" target="_blank" style="text-decoration: none;">Læs mere omkring specs her</a>
 
 <br>
 
@@ -76,8 +75,7 @@ Kraftfuld gamer laptop med effektiv kølingssystem hvis lyd kan blive ret højt 
 <br>
 
 <div class="has-text-centered">
-<a href="https://track.adtraction.com/t/t?a=1319510587&as=1433021260&t=2&tk=1&url=https://www.computersalg.dk/i/5626784/acer-predator-helios-300-ph315-52?sq=acer+predator+H
-" target="_blank"  style="background-color:#f44336; 
+<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=29353&bannerid=67785&htmlurl=https://www.proshop.dk/Baerbar/Acer-Predator-Helios-300-PH315-52-7385/2869666" target="_blank"  style="background-color:#f44336; 
 	border-radius:28px;
 	border:1px solid #f44336;
 	display:inline-block;
@@ -87,5 +85,5 @@ Kraftfuld gamer laptop med effektiv kølingssystem hvis lyd kan blive ret højt 
 	font-size:17px;
 	padding:16px 31px;
 	text-decoration:none;
-	text-shadow:0px 1px 0px #2f6627;" >Tjek Pris Her - Computersalg</a>
+	text-shadow:0px 1px 0px #2f6627;" >Køber - Acer Predator Helios 300</a>
 </div>
