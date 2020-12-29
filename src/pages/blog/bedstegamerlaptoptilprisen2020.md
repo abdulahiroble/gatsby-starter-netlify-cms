@@ -29,6 +29,14 @@ Specifikationerne er store, da Razer Blade 15 leveres med en 10. generation af I
 
 Det har også en ultra-tynd aluminiumsramme og god køling.
 
+## Specs
+
+15,6" Full HD IPS-skærm (1920 x 1080) <br>
+Intel Core i7 (10. Gen) 10750H / 2.6 GHz<br>
+NVIDIA GeForce RTX 2070 <br>
+Hukommelse: 16 GB DDR4 RAM <br>
+Lagerkapacitet: 512 GB SSD NVMe <br>
+
 #### Fordele
 
 - Du kan opgradere RAM og SSD
@@ -75,7 +83,7 @@ allowfullscreen></iframe>
 	font-size:17px;
 	padding:16px 31px;
 	text-decoration:none;
-	text-shadow:0px 1px 0px #2f6627;" >Tjek Pris - Razer Blade 15</a>
+	text-shadow:0px 1px 0px #2f6627;" >Køb - Razer Blade 15</a>
 </div>
 
 ## 2. Acer Predator Triton 500
@@ -95,6 +103,14 @@ Hvis du vil, kan du tilføje eksterne skærme til enheden, og det fungerer helt 
 Specifikationerne er også imponerende, du har en Core i7 10750h, en RTX 2080 Super samt op til 32 GB RAM og 1 TB SSD.
 
 Det viser helt klart den fantastiske værdi. Det har også fremragende kølesupport.
+
+## Specs
+
+15,6" Full HD IPS-skærm (1920 x 1080) <br>
+Intel Core i7 (10. Gen) 10750H / 2.6 GHz<br>
+NVIDIA GeForce RTX 2080 SUPER <br>
+Hukommelse: 32 GB DDR4 RAM <br>
+Lagerkapacitet: 1024 TB SSD NVMe <br>
 
 #### Fordele
 
@@ -138,7 +154,7 @@ allowfullscreen></iframe>
 	font-size:17px;
 	padding:16px 31px;
 	text-decoration:none;
-	text-shadow:0px 1px 0px #2f6627;" >Tjek Pris - Acer Predator Triton 500</a>
+	text-shadow:0px 1px 0px #2f6627;" >Køb - Acer Predator Triton 500</a>
 </div>
 
 ## 3. Acer Predator Helios 300
@@ -152,6 +168,14 @@ Dette er en gamer laptop, der kan bruges af næsten enhver, der ønsker at spill
 Displayet er 144 Hz, og du har en fuld HD-opløsning. Det leveres også med overdrive-respons. 9. generation af Core i7 CPU er meget kraftig, det samme med den fantastiske GTX 1060 Ti GPU fra NVIDIA, som er virkelig kraftig.
 
 Dertil kommer, at 16 GB RAM og 512 GB SSD lager. Køling er imponerende, du har fuld RGB og næsten alle de værktøjer, du har brug for.
+
+## Specs
+
+15,6" Full HD IPS-skærm (1920 x 1080) <br>
+Intel Core i7 (9. Gen) 9750H / 2.6 GHz (4.5 GHz)<br>
+NVIDIA GeForce RTX 2060 <br>
+Hukommelse: 16 GB DDR4 RAM <br>
+Lagerkapacitet: 512 GB SSD NVMe <br>
 
 #### Fordele
 
@@ -202,7 +226,7 @@ allowfullscreen></iframe>
 	font-size:17px;
 	padding:16px 31px;
 	text-decoration:none;
-	text-shadow:0px 1px 0px #2f6627;" >Tjek Pris Her - Acer Predator Helios 300</a>
+	text-shadow:0px 1px 0px #2f6627;" >Køb - Acer Predator Helios 300</a>
 </div>
 
 <br/>
