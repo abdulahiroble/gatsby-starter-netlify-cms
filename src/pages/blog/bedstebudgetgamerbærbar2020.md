@@ -1,11 +1,11 @@
 ---
 templateKey: "blog-post"
-title: "Bedste Gamer Bærbar 2019"
+title: "Bedste Budget Gamer Bærbar 2020"
 date: 2020-12-13T15:04:10.000Z
 featuredpost: true
 featuredimage: /img/helios.jpg
 description: >-
-  Her er vores bud på den bedste gamer bærbar i år.
+  Her er vores bud på den bedste budget gamer bærbar i 2020.
 tags:
   - acer predator helios 300
 ---
