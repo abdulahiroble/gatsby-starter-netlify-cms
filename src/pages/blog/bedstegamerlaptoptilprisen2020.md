@@ -3,9 +3,9 @@ templateKey: "blog-post"
 title: "Bedste Gamer Laptop til Prisen 2020"
 date: 2020-12-15T15:04:10.000Z
 featuredpost: true
-featuredimage: /img/razer-blade-15-baerbar-gaming-computer-sort.jpg
+featuredimage: /img/razer-blade-15-base.jpg
 description: >-
-  Med så mange gamer laptops på markedet kan det være meget udfordrende at finde en god enhed, der passer til dine behov. Derfor er det en meget god ide at fokusere på kvalitet, og hvilken værdi du får for pengene. Med det i tankerne oprettede vi en liste med 5 forskellige gamer laptops, der hjælper dig med at få den bedste spil oplevelse til en god pris.
+  Med så mange gamer laptops på markedet kan det være meget udfordrende at finde en god enhed, der passer til dine behov. Derfor er det en meget god ide at fokusere på kvalitet, og hvilken værdi du får for pengene. Med det i tankerne oprettede vi en liste med 3 forskellige gamer laptops, der hjælper dig med at få den bedste spil oplevelse til en god pris.
 
 tags:
   - Razer Blade 15
@@ -17,7 +17,7 @@ tags:
 
 ## 1. Razer Blade 15
 
-![Razer Blade 15](/img/razer-blade-15-baerbar-gaming-computer-sort.jpg)
+![Razer Blade 15](/img/razer-blade-15-base.jpg)
 
 Razer Blade 15 er verdens mindste gaming-bærbare computer, men det gode ved det er, at det har masser af funktionaliteter som vil overraske dig.
 
@@ -101,13 +101,16 @@ Det viser helt klart den fantastiske værdi. Det har også fremragende kølesupp
 - Fantastisk kølesystem
 - Masser af ydeevne
 - Interessant hængseldesign
-- 4K berøringsskærmvisning
 
 #### Ulemper
 
 - Fanernes lyd bliver høje, mens de spiller
 - Temmelig stor
 - Den har ikke den bedste batterilevetid
+
+### Gaming benchmark
+
+![gta-bench](/img/gta-bench.png) <br/> ![pubg](/img/fortnite.png) <br/> ![witcher](/img/witcher-bench.png)
 
 #### Video anmeldelse af Acer Predator Triton 500
 
@@ -146,9 +149,9 @@ Acer Predator Helios 300, er for dig som gerne vil have en, pålidelig og bruger
 
 Dette er en gamer laptop, der kan bruges af næsten enhver, der ønsker at spille spil på farten uden at ty til lave opløsninger eller drop i framerates.
 
-Displayet er 144 Hz, og du har en fuld HD-opløsning. Det leveres også med overdrive-respons. 10. generation af Core i7 CPU er meget kraftig, det samme med den fantastiske RTX 2060 GPU fra NVIDIA, som er virkelig kraftig.
+Displayet er 144 Hz, og du har en fuld HD-opløsning. Det leveres også med overdrive-respons. 9. generation af Core i7 CPU er meget kraftig, det samme med den fantastiske GTX 1060 Ti GPU fra NVIDIA, som er virkelig kraftig.
 
-Dertil kommer, at 16 GB RAM og 1 TB lager. Køling er imponerende, du har fuld RGB og næsten alle de værktøjer, du har brug for.
+Dertil kommer, at 16 GB RAM og 512 GB SSD lager. Køling er imponerende, du har fuld RGB og næsten alle de værktøjer, du har brug for.
 
 #### Fordele
 
@@ -163,6 +166,10 @@ Dertil kommer, at 16 GB RAM og 1 TB lager. Køling er imponerende, du har fuld R
 - Kølesystemet kan være bedre
 - Ingen almindelig HDD inkluderet
 - Ingen support til gen 2 USB type C eller thunderbolt
+
+### Gaming benchmark
+
+![gta-bench](/img/gta-becn.png) <br/> ![pubg](/img/withcer-benc.png) <br/> ![witcher](/img/fort.png)
 
 #### Video anmeldelse af Acer Predator Helios 300
 
@@ -185,7 +192,7 @@ allowfullscreen></iframe>
 <br/> <br/>
 
 <div class="has-text-centered">
-<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=29353&bannerid=67785&htmlurl=https://www.proshop.dk/Baerbar/Acer-Predator-Helios-300PH315-53-76Z1/2871215" target="_blank"  style="background-color:#f44336; 
+<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=29353&bannerid=67785&htmlurl=https://www.proshop.dk/Baerbar/Acer-Predator-Helios-300-PH315-52-7385/2869666" target="_blank"  style="background-color:#f44336; 
 	border-radius:28px;
 	border:1px solid #f44336;
 	display:inline-block;
