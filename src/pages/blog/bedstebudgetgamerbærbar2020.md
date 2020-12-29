@@ -1,7 +1,7 @@
 ---
 templateKey: "blog-post"
 title: "Bedste Gamer Bærbar 2019"
-date: 2019-10-30T15:04:10.000Z
+date: 2020-12-13T15:04:10.000Z
 featuredpost: true
 featuredimage: /img/helios.jpg
 description: >-
@@ -76,8 +76,7 @@ Kraftfuld gamer laptop med effektiv kølingssystem hvis lyd kan blive ret højt 
 <br>
 
 <div class="has-text-centered">
-<a href="https://track.adtraction.com/t/t?a=1319510587&as=1433021260&t=2&tk=1&url=https://www.computersalg.dk/i/5626784/acer-predator-helios-300-ph315-52?sq=acer+predator+H
-" target="_blank"  style="background-color:#f44336; 
+<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=29353&bannerid=67785&htmlurl=https://www.proshop.dk/Baerbar/Acer-Predator-Helios-300-PH315-52-7385/2869666" target="_blank"  style="background-color:#f44336; 
 	border-radius:28px;
 	border:1px solid #f44336;
 	display:inline-block;
