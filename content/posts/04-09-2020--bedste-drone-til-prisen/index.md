@@ -3,7 +3,7 @@ title: Bedste Drone 2020
 cover: drone-2724257_1920.jpg
 ---
 
-At flyve med droner er en spændende oplevelse, fordi du kan tage flotte landskabsbilleder. Der er dog mange droner på markedet, så hvordan kan du finde ud af, hvad der er den bedste for dig? Her har du en liste med de bedste DJI droner i 2020, hvor vi kommer ind på deres funktioner og hvilke fordele de hver og især har.
+At flyve med droner er en spændende oplevelse, fordi du kan tage flotte landskabsbilleder. Der er dog mange droner på markedet, så hvordan kan du finde ud af, hvad der er den bedste for dig? Her har du en liste med de bedste droner i 2020, hvor vi kommer ind på deres funktioner og hvilke fordele de hver og især har.
 
 ## 1. Autel EVO 2 Pro
 
@@ -29,7 +29,7 @@ Pros
 
 - Mere fleksibilitet: Evo 2 har et udskifteligt kameramodul, hvilket betyder, at man kan skifte mellem Pro-, standard- og dual (infrarødt og synligt lys) kamerasystem.
 
-- Controller: En kontrol til både at køre drone og se videofeed. Ingen separat telefon eller tablet er nødvendig. Du kan se flere oplysninger på én gang, hvis du forbinder en anden skærm til controlleren, men det er ikke nødvendigt.
+- En controller til både at køre drone og se videofeed
 
 - Leveres med 32 GB Sandisk Extreme-kort, så du er klar til at flyve, når du modtager dronen
 
