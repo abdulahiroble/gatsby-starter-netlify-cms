@@ -3,9 +3,75 @@ title: Bedste Drone 2020
 cover: drone-2724257_1920.jpg
 ---
 
-At flyve med droner er en spændende oplevelse, fordi du kan tage flotte landskabsbilleder. Der er dog mange droner på markedet, så hvordan kan du finde ud af, hvad der er den bedste for dig? Her har du en liste med de bedste DJI droner i 2020, hvor vi kommer ind på deres funktioner og hvilke fordele de hver og især har.
+At flyve med droner er en spændende oplevelse, fordi du kan tage flotte landskabsbilleder. Der er dog mange droner på markedet, så hvordan kan du finde ud af, hvad der er den bedste for dig? Her har du en liste med de bedste droner i 2020, hvor vi kommer ind på deres funktioner og hvilke fordele de hver og især har.
 
-## 1. DJI Mavic 2 Pro - Fly More Combo
+## 1. Autel EVO 2 Pro
+
+![Autel EVO 2 Pro ](./autel.jpg)
+
+Evo II Pro-versionen henvender sig mere til professionelle fotografer og filmskabere.
+
+Selvom Pro-versionen “kun” tilbyder 6K-opløsning, kan du stadig forvente klarere og mere detaljerede billeder, da den er udstyret med en større 1-tommer billedsensor sammenlignet med 1/2-tommers billedsensor fra Evo II 8K.
+
+Derudover har fotoentusiaster fuld kamerakontrol med en justerbar blænde (f / 2.8 til f / 11).
+
+Pros
+
+- Utrolig batterilevetid - godt over en halv time pr. Flyvning
+
+- Ingen geofencing - i sidste ende hvad skubbede mig til at købe dette som min første drone over DJI
+
+- Fremragende til at undgå forhindringer den møde - denne ting har kameraer og ultralyd, der dækker de fleste vinkler, hvilket gør det sværere at støde på ting
+
+- Video og fotos er fremragende ved standardindstillingerne.
+
+- Video op til 120FPS, hvilket er fantastisk til slowmotio
+
+- Mere fleksibilitet: Evo 2 har et udskifteligt kameramodul, hvilket betyder, at man kan skifte mellem Pro-, standard- og dual (infrarødt og synligt lys) kamerasystem.
+
+- En controller til både at køre drone og se videofeed
+
+- Leveres med 32 GB Sandisk Extreme-kort, så du er klar til at flyve, når du modtager dronen
+
+Cons
+
+- Casen den opbevares i er meget stor og er ikke nem at bære rundt på
+
+- Det lidt mere støjende end en Mavic Air 2
+
+### Videoanmeldelse
+
+<div style="position: relative
+        paddingBottom: 56.25% /* 16:9 */,
+        paddingTop: 25,
+        height: 0">
+
+ <iframe width="340" height="200" style="          position: absolute,
+          top: 0,
+          left: 0,
+          width: 100%,
+          height: 100%"
+src="https://www.youtube.com/embed/u509D_U4RPM" SameSite=None
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+</div>
+
+<div style="text-align: center">
+<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=29353&bannerid=77671&htmlurl=https://www.droneland.dk/da/home/920-autel-evo-2-pro-6k1-drone-med-fuld-1-sony-sensor-og-6k-kamera-fly-more-bundle-6924991101024.html" target="_blank"  style="background-color:#f44336; 
+	border-radius:28px;
+	border:1px solid #f44336;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;" >Tjek Autel EVO 2 Pro Pris</a>
+</div>
+
+## 2. DJI Mavic 2 Pro - Fly More Combo
 
 ![DJI Mavic 2 Pro](./Mavic-2-pro-3-768x768.jpg)
 
@@ -56,7 +122,8 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 allowfullscreen></iframe>
 </div>
 
-<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=29353&bannerid=55216&htmlurl=https://www.hubshop.dk/shop/dji-mavic-2-pro-combo-startpakke/" target="_blank"  style="background-color:#f44336; 
+<div style="text-align: center"> 
+<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=29353&bannerid=77671&htmlurl=https://www.droneland.dk/da/home/491-dji-mavic-2-pro-startpakke-drone-med-hasselblad-kamera-og-tilbehorspakke-6958265174445.html" target="_blank"  style="background-color:#f44336; 
 	border-radius:28px;
 	border:1px solid #f44336;
 	display:inline-block;
@@ -67,8 +134,11 @@ allowfullscreen></iframe>
 	padding:16px 31px;
 	text-decoration:none;
 	text-shadow:0px 1px 0px #2f6627;" >Tjek DJI Mavic Pro Pris</a>
+</div>
 
-## 2. DJI Mavic 2 Zoom - Fly More Combo
+</div>
+
+## 3. DJI Mavic 2 Zoom - Fly More Combo
 
 ![DJI Mavic 2 Zoom](./Mavic-2-zoom-3-768x768.jpg)
 
@@ -114,7 +184,8 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 allowfullscreen></iframe>
 </div>
 
-<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=29353&bannerid=55216&htmlurl=https://www.hubshop.dk/shop/dji-mavic-2-zoom-combo-startpakke/" target="_blank"  style="background-color:#f44336; 
+<div style="text-align: center">
+<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=29353&bannerid=77671&htmlurl=https://www.droneland.dk/da/home/493-dji-mavic-2-zoom-startpakke-drone-med-zoom-kamera-og-tilbehorspakke-6958265174452.html" target="_blank"  style="background-color:#f44336; 
 	border-radius:28px;
 	border:1px solid #f44336;
 	display:inline-block;
@@ -125,66 +196,9 @@ allowfullscreen></iframe>
 	padding:16px 31px;
 	text-decoration:none;
 	text-shadow:0px 1px 0px #2f6627;" >Tjek DJI Mavic 2 Zoom Pris</a>
-
-## 3. DJI Mavic Air - Fly More Combo
-
-![DJI Mavic Air](./dji-mavic-air-onyx-black-drone.jpg)
-
-DJI Mavic Air er mere den mest forbrugervenlige i forhold til de andre modeller. Det skyldes den er mindre og er nemmere at bære rundt på så.
-
-I forhold til hvor svært det er at flyve drone kan det siges med det samme at det ikke blive noget problem.
-
-Dens tophastighed 42 km/t og dens flyvetid i følge DJI når lige op på 21 min. Dertil har den 3 sensorer, 2 i fronten, 2 i bagenden og 2 i bunden som hjælper med undgå sammenstød.
-
-Den har 8gb lagerplads og du kan tilføje et sd kort. Kammeraet kan tage flottet panorama billeder og kvalitet er i top.
-
-DJI Mavic Air er et godt alternativ for dig som lige er startet med at flyve med droner og ikke er parat til at gå efter de dyrere DJI droner.
-
-DJI Mavic Air har en god balance i forhold til pris, ydeevne og kvalitet.
-
-Pros
-
-- Lille og nem at bære rundt på
-- forbedret flyvetid
-- God begynder drone
-- Billeder og video i 4k
-
-Cons
-
-- 21 min. flyvetid mindre end Mavic pro
-- Kortere flyve distance
-
-### Videoanmeldelse
-
-<div style="position: relative
-        paddingBottom: 56.25% /* 16:9 */,
-        paddingTop: 25,
-        height: 0">
-
- <iframe width="340" height="200" style="          position: absolute,
-          top: 0,
-          left: 0,
-          width: 100%,
-          height: 100%"
-src="https://www.youtube.com/embed/T6Gv07_bTiw" SameSite=None
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
 </div>
 
-<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=29353&bannerid=67757&htmlurl=https://www.proshop.dk/Droner-Helikopter/DJI-Mavic-Air-Fly-More-Combo-Onyx-Black/2641448" target="_blank"  style="background-color:#f44336; 
-	border-radius:28px;
-	border:1px solid #f44336;
-	display:inline-block;
-	cursor:pointer;
-	color:#ffffff;
-	font-family:Arial;
-	font-size:17px;
-	padding:16px 31px;
-	text-decoration:none;
-	text-shadow:0px 1px 0px #2f6627;" >Tjek DJI Mavic Air Pris</a>
-
-## 5. DJI Mavic Mini - Fly More Combo
+## 4. DJI Mavic Mini - Fly More Combo
 
 ![DJI Mavic Mini](./mavic-mini.jpg)
 
@@ -228,7 +242,8 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 allowfullscreen></iframe>
 </div>
 
-<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=29353&bannerid=55216&htmlurl=https://www.hubshop.dk/shop/dji-mavic-mini-combo-startpakke/" target="_blank"  style="background-color:#f44336; 
+<div style="text-align: center">
+<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=29353&bannerid=77671&htmlurl=https://www.droneland.dk/da/home/791-1521-dji-mavic-mini-mikro-drone-med-kamera-6958265192869.html#/131-vaelg_model_-basispakke" target="_blank"  style="background-color:#f44336; 
 	border-radius:28px;
 	border:1px solid #f44336;
 	display:inline-block;
@@ -239,65 +254,4 @@ allowfullscreen></iframe>
 	padding:16px 31px;
 	text-decoration:none;
 	text-shadow:0px 1px 0px #2f6627;" >Tjek DJI Mavic Mini Pris</a>
-
-## 4. DJI Mavic Pro Platinum - Fly More Combo
-
-![DJI Mavic Pro Platinum](./DJI-Mavic-Pro-Platinum.jpg)
-
-Mavic Pro Platinum har en lysere design end den originale Mavic Pro, men er ellers fysisk identisk.
-
-DJI Mavic Pro Platinum er super nem og flyve og har også et begynder niveau for dem som lige at startet med at flyve med droner.
-
-Den har lys hjælper dig med at orientere flyets retning, når du flyve med dronen.
-
-Kameraet kan tage billeder i 4k og er nem at bære rundt på. Når den foldes, passer Mavic Pro let i en kamerataske.
-
-Plastikcoveret, der beskytter kameraet, kan være på eller fjernes under flyvning.
-
-Dens flyvetid er i følge DJI på omkring 30 min. Dronens støjniveau er væsentlig mindre end tidligere versioner.
-
-Controlleren, der følger med Mavic pro platinum, er også den samme enhed, du får med den originale Mavic pro.
-
-Sensorerne er placeret i bunden og i front som hjælper med at undgå koalitioner.
-
-DJI Mavic Pro Platinum er en fantastisk drone, du kan købe og et god valg for de fleste luftfotografer.
-
-Pros
-
-- Mindre støjende
-- Øget flyvetid
-- 4k video
-
-Cons
-
-- Har ikke sensorer i bagenden
-
-### Videoanmeldelse
-
-<div style="position: relative
-        paddingBottom: 56.25% /* 16:9 */,
-        paddingTop: 25,
-        height: 0">
-
- <iframe width="340" height="200" style="          position: absolute,
-          top: 0,
-          left: 0,
-          width: 100%,
-          height: 100%"
-src="https://www.youtube.com/embed/GyFSXWS6RhI" SameSite=None
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
 </div>
-
-<a href="https://www.computersalg.dk/i/3714981/dji-mavic-pro-platinum-fly-more?sq=dji%20mavic%20pro%20platinum&utm_source=adtraction&utm_medium=affiliate&utm_campaign=adtraction&at_gd=4274E08D2B30453B4372FC9F60FBC133D9632539" target="_blank"  style="background-color:#f44336; 
-	border-radius:28px;
-	border:1px solid #f44336;
-	display:inline-block;
-	cursor:pointer;
-	color:#ffffff;
-	font-family:Arial;
-	font-size:17px;
-	padding:16px 31px;
-	text-decoration:none;
-	text-shadow:0px 1px 0px #2f6627;" >Tjek DJI Mavic Pro Platinum Pris</a>
