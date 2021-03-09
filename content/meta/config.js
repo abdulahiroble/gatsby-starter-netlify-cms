@@ -1,7 +1,8 @@
 module.exports = {
-  siteTitle: "Bedste Drone til Prisen - Find Gode DJI droner her", // <title>
-  shortSiteTitle: "Bedste Drone 2020", // <title> ending for posts and pages
-  siteDescription: "Få et overblik over de bedste droner med kamera på markedet.",
+  siteTitle: "Bedste Gamer Laptop - Find Billige Gamer Laptops", // <title>
+  shortSiteTitle: "Bedste Gamer Bærbar", // <title> ending for posts and pages
+  siteDescription:
+    "Hjemmesiden for dig som gerne vil have et overblik over de bedste gamer bærbar på markedet",
   siteUrl: "https://bedstegamerlaptop/",
   // pathPrefix: "",
   // siteImage: "preview.jpg",
@@ -16,8 +17,8 @@ module.exports = {
   // headerSubTitle: "presents another one GatsbyJS starter",
 
   /* manifest.json */
-  manifestName: "Bedste Drone 2020 - Bedste Drone til Prisen",
-  manifestShortName: "Bedste Drone 2020", // max 12 characters
+  manifestName: "Bedste Gamer Laptop - Find Billige Gamer Laptops",
+  manifestShortName: "Bedste Gamer Bærbar", // max 12 characters
   manifestStartUrl: "/index.html",
   manifestBackgroundColor: "white",
   manifestThemeColor: "#666",
