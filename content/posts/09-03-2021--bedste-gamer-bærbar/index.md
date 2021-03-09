@@ -3,7 +3,7 @@ title: Bedste Gamer Bærbar 2021
 cover: razer-blade-15-base.jpg
 ---
 
-Med så mange gamer laptops på markedet kan det være meget udfordrende at finde en god enhed, der passer til dine behov. Derfor er det en meget god ide at fokusere på kvalitet, og hvilken værdi du får for pengene. Med det i tankerne oprettede vi en liste med 3 forskellige gamer bærbar, der hjælper dig med at få den bedste spil oplevelse til en god pris.
+Med så mange gamer bærbare computer på markedet kan det være meget udfordrende at finde en god enhed, der passer til dine behov. Derfor er det en meget god ide at fokusere på kvalitet, og hvilken værdi du får for pengene. Med det i tankerne oprettede vi en liste med 3 forskellige gamer bærbar, der hjælper dig med at få den bedste spil oplevelse til en god pris.
 
 # 1. Razer Blade 15
 
