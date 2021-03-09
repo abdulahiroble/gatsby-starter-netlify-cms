@@ -9,7 +9,7 @@ Drone tilbehør kan forbedre din oplevelse når du er ude og flyve med din drone
 
 ![DJI Batteri](./dji-batteri.jpg)
 
-Når du er ude of flyve med din drone og pludselig opdager at batteriet er ved at løbe kan det være irreterende ikke at have et ekstra batteri liggende.
+Når du er ude of flyve med din drone og pludselig opdager at batteriet er ved at løbe kan det være irreterende ikke at have et ekstra batteri liggende..
 
 Hvis du køber en DJI Mavic 2 uden <a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=29353&bannerid=55216&htmlurl=https://www.hubshop.dk/shop/dji-mavic-2-pro-combo-startpakke/" target="_blank">Fly more combo</a> vil du kun få tildelt et enkelt batteri.
 
