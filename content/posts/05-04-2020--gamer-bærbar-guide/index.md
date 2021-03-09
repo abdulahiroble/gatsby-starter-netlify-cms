@@ -7,11 +7,11 @@ Det plejede at være svært at finde en god gamer bærbar. En som ikke vejede et
 
 I dag er det anderledes. Nu er problemet at der er for mange gode gamer laptops og det kan derfor være svært at vælge den rigtige for en selv.
 
-Vi har derfor valgt at lave en købsguide som har til formål at rådgive dem om ting du bør være klar over før du køber en gamer laptop
+Vi har derfor valgt at lave en købsguide som har til formål at rådgive dem om ting du bør være klar over før du køber en gamer bærbar
 
 ## 1. Hvad er dit behov?
 
-Før du begynder at lede efter en gamer laptop så prøv til at starte med at tænk over hvad det egentlig er du søger efter.
+Før du begynder at lede efter en gamer bærbar computer så prøv til at starte med at tænk over hvad det egentlig er du søger efter.
 
 Når alt kommer til alt, hvis du køber en gaming laptop, der ikke kan levere den ydelse, der kræves for de spil, du har købt den til at spille, er det lidt spild af penge.
 
