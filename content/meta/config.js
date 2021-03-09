@@ -2,7 +2,7 @@ module.exports = {
   siteTitle: "Bedste Drone til Prisen - Find Gode DJI droner her", // <title>
   shortSiteTitle: "Bedste Drone 2020", // <title> ending for posts and pages
   siteDescription: "Få et overblik over de bedste droner med kamera på markedet.",
-  siteUrl: "https://bedstedronetilprisen.dk/",
+  siteUrl: "https://bedstegamerlaptop/",
   // pathPrefix: "",
   // siteImage: "preview.jpg",
   siteLanguage: "de",
@@ -12,7 +12,7 @@ module.exports = {
   // authorTwitterAccount: "greglobinski",
 
   /* info */
-  headerTitle: "bedstedronetilprisen.dk",
+  headerTitle: "bedstegamerlaptop",
   // headerSubTitle: "presents another one GatsbyJS starter",
 
   /* manifest.json */
