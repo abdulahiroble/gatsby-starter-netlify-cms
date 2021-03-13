@@ -17,12 +17,11 @@ Modellen er lettere end sidste års version og vejer 2.3 kg som gør den nemmere
 
 ## Specs
 
-15.6" LED baglys 1920 x 1080 / Full HD <br>
-Intel Core i5 (9. Gen) 9300H / 2.4 GHz (4.1 GHz)<br>
-NVIDIA GeForce GTX 1650 <br>
+15.6" LED baglys 	1280 x 720 / HD <br>
+AMD Ryzen 7 3750H / 2.3 GHz<br>
+NVIDIA GeForce GTX 1050 Ti <br>
 Hukommelse: 8 GB DDR4 RAM <br>
 Lagerkapacitet: 512 GB SSD PCIe <br>
-<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=29353&bannerid=67785&htmlurl=https://www.proshop.dk/Baerbar/Acer-Nitro-5-AN517-51-52LA/2869782" target="_blank" style="text-decoration: none;">Læs mere omkring specs her</a>
 
 <br>
 
@@ -56,10 +55,6 @@ frameborder="0"
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
 </div>
-
-## Benchmark
-
-<img src="/bench-small.png" sizes="945x493">
 
 ### Konklusion
 
