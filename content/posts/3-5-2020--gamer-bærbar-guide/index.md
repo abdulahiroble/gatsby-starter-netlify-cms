@@ -1,6 +1,6 @@
 ---
 title: Sådan Finder Du den Bedste Gamer Bærbar
-cover: video-games-1557358_1920.jpg
+cover: jeff-hardi-yRAK7Vcyl_Q-unsplash.jpg
 ---
 
 Det plejede at være svært at finde en god gamer bærbar. En som ikke vejede et ton eller havde dårligt batterilevetid.
