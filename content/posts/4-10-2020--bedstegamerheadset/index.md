@@ -114,7 +114,7 @@ allowfullscreen></iframe>
 
 <br/>
 <div style="text-align: center">
-<a href="https://track.adtraction.com/t/t?a=1319510587&as=1433021260&t=2&tk=1&url=https://www.computersalg.dk/i/5801193/corsair-gaming-virtuoso-rgb-headset?sq=Corsair+Virtuoso" target="_blank"  style="background-color:#f44336; 
+<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=29353&bannerid=67785&htmlurl=https://www.proshop.dk/Hovedtelefonerheadset/Corsair-VIRTUOSO-RGB-Wireless-Carbon/2799604" target="_blank"  style="background-color:#f44336; 
 	border-radius:28px;
 	border:1px solid #f44336;
 	display:inline-block;
@@ -175,7 +175,7 @@ allowfullscreen></iframe>
 
 <br/>
 <div style="text-align: center">
-<a href="https://track.adtraction.com/t/t?a=1319510587&as=1433021260&t=2&tk=1&url=https://www.computersalg.dk/i/5866313/hyperx-cloud-orbit-s-headset-fuld?sq=hyperx+cloud+orb" target="_blank"  style="background-color:#f44336; 
+<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=29353&bannerid=67785&htmlurl=https://www.proshop.dk/Hovedtelefonerheadset/Kingston-HyperX-Cloud-Orbit-S/2809285" target="_blank"  style="background-color:#f44336; 
 	border-radius:28px;
 	border:1px solid #f44336;
 	display:inline-block;
@@ -238,7 +238,7 @@ allowfullscreen></iframe>
 
 <br/>
 <div style="text-align: center">
-<a href="https://track.adtraction.com/t/t?a=1319510587&as=1433021260&t=2&tk=1&url=https://www.computersalg.dk/i/5709646/logitech-g-pro-x-headset-fuld?sq=Logitech+G+Pro+X" target="_blank"  style="background-color:#f44336; 
+<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=29353&bannerid=67785&htmlurl=https://www.proshop.dk/Hovedtelefonerheadset/Logitech-G-PRO-X-with-BLUE-VOCE/2788827" target="_blank"  style="background-color:#f44336; 
 	border-radius:28px;
 	border:1px solid #f44336;
 	display:inline-block;
