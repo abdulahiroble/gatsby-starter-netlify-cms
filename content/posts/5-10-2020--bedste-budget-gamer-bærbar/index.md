@@ -9,7 +9,7 @@ Selvom der kun er 2 måned tilbage af 2020 har vi her på siden valgt at komme m
 
 ![acer nitro 5](/nitro.jpg)
 
-Acer nitro 5 er acer nyeste model i Nitro 5 serien. Den er udstyret med Intels Gen i5 CPU, GTX 1650 og kommer i et forbedret design. Dens kølingssystem har også fået en forbedring som gør spil oplevelsen bedre.
+Acer nitro 5 er acer nyeste model i Nitro 5 serien. Den er udstyret med Intels AMD Ryzen 7 CPU, GTX 1050 Ti og kommer i et forbedret design. Dens kølingssystem har også fået en forbedring som gør spil oplevelsen bedre.
 
 ## Design
 
