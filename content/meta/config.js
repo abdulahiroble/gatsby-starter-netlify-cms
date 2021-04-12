@@ -3,7 +3,7 @@ module.exports = {
   shortSiteTitle: "Bedste Gamer Bærbar", // <title> ending for posts and pages
   siteDescription:
     "Hjemmesiden for dig som gerne vil have et overblik over de bedste gamer bærbar på markedet",
-  siteUrl: "https://bedstegamerlaptop/",
+  siteUrl: "https://www.bedstegamerlaptop.dk/",
   // pathPrefix: "",
   // siteImage: "preview.jpg",
   siteLanguage: "de",
