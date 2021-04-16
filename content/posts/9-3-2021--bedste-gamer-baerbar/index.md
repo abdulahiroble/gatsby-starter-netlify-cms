@@ -72,31 +72,26 @@ allowfullscreen></iframe>
 
 <br><br>
 
-# 2. Acer Predator Triton 500
+# 2. Acer Nitro 5
 
-![MSI GS65 Stealth](/2809979_013853a944a1.jpg)
+![MSI GS65 Stealth](/nitro.jpg)
 
-Acer predator triton er en kraftfuld, flot gamer laptop, der hjælper dig med at nyde de spil, du ønsker, når du finder det passende.
+Acer Nitro 5 er en god gamer bærbar for dig som lige er begyndt med at spille på computer. Denne gamer har et flot design og så er prisen oven i købet god.
 
-Acer predator triton er rettet mod dem der ønsker at spille i fuld HD uden problemer.
+Specifikationerne er også imponerende, du har en Ryzen 7 3750H processor, en GTX 1050 Ti grafik kort samt 512 GB SSD lagerplads så der er plads til at spille forskellige spil såsom fortnite eller GTA 5.
 
-Det har gode specs, og selvom det kan bruges til en række forskellige opgaver, er det at kunne spille på laptopten hovedfokusset.
+Dertil har den også en fremragende kølesupport så bærbaren ikke overopdheder når du har spillet i lang tid.
 
-Enheden er let, den vejer 2,1 kg, og den har et 300 Hz panel med G Sync-understøttelse.
+Du kan spille dine spil i fuld HD og den har desuden 120 Hz som gør gameplay mere smooth. 
 
-Hvis du vil, kan du tilføje eksterne skærme til enheden, og det fungerer helt fint uden nogen bekymringer.
-
-Specifikationerne er også imponerende, du har en Core i7 10750h, en RTX 2080 Super samt op til 32 GB RAM og 1 TB SSD.
-
-Det viser helt klart den fantastiske værdi. Det har også fremragende kølesupport.
 
 ## Specs
 
 15,6" Full HD IPS-skærm (1920 x 1080) <br>
-Intel Core i7 (10. Gen) 10750H / 2.6 GHz<br>
-NVIDIA GeForce RTX 2080 SUPER <br>
-Hukommelse: 32 GB DDR4 RAM <br>
-Lagerkapacitet: 1024 TB SSD NVMe <br>
+Ryzen 7 4800H / 2.9 GHz<br>
+NVIDIA GeForce GTX 1650 Ti <br>
+Hukommelse: 16 GB RAM <br>
+Lagerkapacitet:  512 GB SSD <br>
 
 #### Fordele
 
@@ -122,14 +117,14 @@ Lagerkapacitet: 1024 TB SSD NVMe <br>
           left: 0,
           width: 100%,
           height: 100%"
-src="https://www.youtube.com/embed/d_dNEoqJ72E" SameSite=None
+src="https://www.youtube.com/embed/zTri2C0SCP8" SameSite=None
 frameborder="0" 
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
 </div>
 
 <div style="text-align: center">
-<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=29353&bannerid=67785&htmlurl=https://www.proshop.dk/Baerbar/Acer-Predator-Triton-500-PT515-52-748T/2871217" target="_blank"  style="background-color:#f44336; 
+<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=29353&bannerid=67785&htmlurl=https://www.proshop.dk/Baerbar/Acer-Nitro-5-AN515-44-R5GB/2869819" target="_blank"  style="background-color:#f44336; 
 	border-radius:28px;
 	border:1px solid #f44336;
 	display:inline-block;
@@ -139,7 +134,7 @@ allowfullscreen></iframe>
 	font-size:17px;
 	padding:16px 31px;
 	text-decoration:none;
-	text-shadow:0px 1px 0px #2f6627;" >Køb - Acer Predator Triton 500</a>
+	text-shadow:0px 1px 0px #2f6627;" >Køb - Acer Nitro 5</a>
 </div>
 
 <br><br>
@@ -197,7 +192,7 @@ allowfullscreen></iframe>
 </div>
 
 <div style="text-align: center">
-<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=29353&bannerid=67785&htmlurl=https://www.proshop.dk/Baerbar/Acer-Predator-Triton-500-PT515-52-748T/2871217" target="_blank"  style="background-color:#f44336; 
+<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=29353&bannerid=67785&htmlurl=https://www.proshop.dk/Baerbar/Acer-Predator-Helios-300-PH315-52-7385/2869666" target="_blank"  style="background-color:#f44336; 
 	border-radius:28px;
 	border:1px solid #f44336;
 	display:inline-block;

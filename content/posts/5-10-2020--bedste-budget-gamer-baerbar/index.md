@@ -63,7 +63,7 @@ God bærbar for pengene. Kan køre titler som fortnite på high settings og stad
 <br>
 
 <div style="text-align: center">
-<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=29353&bannerid=67785&htmlurl=https://www.proshop.dk/Baerbar/Acer-Nitro-5-AN515-43-R99E/2835440" target="_blank"  style="background-color:#f44336; 
+<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=29353&bannerid=67785&htmlurl=https://www.proshop.dk/Baerbar/Acer-Nitro-5-AN515-44-R5GB/2869819" target="_blank"  style="background-color:#f44336; 
 	border-radius:28px;
 	border:1px solid #f44336;
 	display:inline-block;
