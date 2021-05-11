@@ -16,4 +16,4 @@ osv...
 
 Og i mange tilfælde kan alt den information være overvældene i sær hvis man lige er begyndt at skiftet fra at gamer på console til computer.
 
-So vi på siden beslutede os for at skabe bedstegamerlaptops med det formål at samle alle informationer omkring gode gamer laptops på en måde der gør det nemt og overskueligt for dig.
+Vi på siden beslutede os for at skabe bedstegamerlaptops med det formål at samle alle informationer omkring gode gamer laptops på en måde der gør det nemt og overskueligt for dig.
