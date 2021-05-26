@@ -3,42 +3,47 @@ title: Billige Gamer Bærbare 2021
 cover: gaming-4075424_1920.jpg
 ---
 
+Leder du efter en god gamer bærbar hvor du ikke skal betale en arm og et ben for den? 
+Vi har samlet en liste af billige gamer bærbare hvor prisen ligger under 8000 kr.
+
 # 1. Lenovo Legion 5
 
 ![Lenovo Legion 5](/lenovo-legion-5.jpg)
 
-Lenovo Legion 5 er en god gamer laptop for dig som lige er begyndt med at spille på computer. Denne gamer har et flot matte black design og røde stripper som giver et nice touch. Dertil er prisen for gamer laptop oven i købet billig. Det er faktisk et af de billigste gamer laptop ude på markedet i øjeblikket.
+Lenovo Legion 5 er en god billig gamer bærbar for dig som gerne vil bruge den til dagligt forbrug og samtidig få god performance når det kommer til gaming.
 
-Specifikationerne er også imponerende, du har en Ryzen 7 3750H processor, en GTX 1050 Ti grafik kort samt 512 GB SSD lagerplads så der er plads til at spille forskellige spil såsom fortnite eller GTA 5.
+En af de ting man først ting man lægger mærke til med laptopen er dens hængsel som giver muligheden for at den kan blive stillet på en 180°C vinkel. 
 
-På venstre side af laptopen finder du ventilationen, et ethernet port, to USB porte og et headset jack. På højre side finder du en USB type C port, en USB port og et HDMI port du kan tilslutte med et kabel.
+Gamer laptopen har et robust design og den sorte matte-black farve er en fryd for øjnene. Dertil har laptopen lenovos logo som skifter farve
+når du vender laptopen til siden. 
 
-Dertil har den også en fremragende kølesupport så bærbaren ikke overopdheder når du har spillet i lang tid.
+Keyboardet har en god følighed når du taster på den og så har den desuden led løs som er et nich touch.
 
-Du kan spille dine spil i fuld HD og den har desuden 144 Hz som gør gameplay mere smooth. Laptopens webcam er ikke særlig imponerende i forhold til videokvalitet men den fungerer fint til hvis du er i et skype eller zoom opkald og du har brug for et webkamera. 
+En af det helt store ting ved denn gamer bærbar er dens skærm. 
 
-I forhold til tidligere modeller af nitro 5 så har denne model en 300 mega hertz hurtigere base clock 240 mega hurtigere boost clock så du kan regne med at se en væsentlig bedre performance som er en fordel hvis du er til battle royal spil såsom fortnite eller apex legends.
+Den har nemlig en skærmoplysning på 120hz som giver en bedre gaming oplevelse fordi opdateringshastigheden er hurtigere.
 
-Batteriet er større end sidste års model hvilket giver længere batterilevetid.
+Når det kommer til spil kan Lenovo legion 5 trækker de fleste AAA spil med god FPS hvis du sætter indstillinger til medium eller high.
+
+Alt i alt kan denne gamer bærbare klart anbefales hvis du leder efter en billig gamer laptop som også kan spille spil i høj kvalitet. 
+
 ## Specs
 
-15,6" Full HD IPS-skærm (1920 x 1080) <br>
-Ryzen 7 4800H / 2.9 GHz<br>
-NVIDIA GeForce GTX 1650 Ti <br>
+Full HD Skærm (1920 x 1080) <br>
+Ryzen 5 4600H / 2.9 GHz<br>
+NVIDIA GeForce RTX 2060 <br>
 Hukommelse: 16 GB RAM <br>
 Lagerkapacitet:  512 GB SSD <br>
 
 #### Fordele
 
-- Fantastisk kølesystem
-- Masser af ydeevne
-- Interessant hængseldesign
+- Godt keyboard
+- Robust design
+- 120hz skærmoplysning
 
 #### Ulemper
 
-- Fanernes lyd bliver høje, mens de spiller
-- Temmelig stor
-- Den har ikke den bedste batterilevetid
+- Mouse pad er lavet af plastik
 
 ### Videoanmeldelse
 
