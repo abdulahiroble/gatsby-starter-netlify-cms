@@ -83,40 +83,40 @@ allowfullscreen></iframe>
 
 ![Acer Predator Triton 300](/Acer-Predator-Triton-300.png)
 
-Acer Predator Triton 300 er en god billig gamer bærbar for dig som gerne vil bruge den til dagligt forbrug og samtidig få god performance når det kommer til gaming.
+Acer Predator Triton 300 er en god billig gamer bærbar med et flot og robust design.
 
-En af de ting man først ting man lægger mærke til med laptopen er dens hængsel som giver muligheden for at den kan blive stillet på en 180°C vinkel. 
+Keyboardet og track pad har en god følighed og det føles ikke som billig plastik. 
 
-Gamer laptopen har et robust design og den sorte matte-black farve er en fryd for øjnene. Dertil har laptopen lenovos logo som skifter farve
-når du vender laptopen til siden. 
+På højre side er laptopen finder du et USB type C port, USB type A, HDMI og mini DP. 
 
-Keyboardet har en god følighed når du taster på den og så har den desuden led løs som er et nich touch.
+På venstre side finder du 2x USB Type A, Ethernet og et 3.5 mm headphone jack.
 
-En af det helt store ting ved denn gamer bærbar er dens skærm. 
+Gamer laptopen er udstyret med en 11 generation i5 processor og RTX 3050 Ti som er en af de nyeste grafik kort fra Nvidia.
 
-Den har nemlig en skærmoplysning på 120hz som giver en bedre gaming oplevelse fordi opdateringshastigheden er hurtigere.
+Derudover har gamer bærbaren en 144 Hz skærm oplysning som giver en bedre spiloplevelse. 
 
-Når det kommer til spil kan Acer Predator Triton 300 trækker de fleste AAA spil med god FPS hvis du sætter indstillinger til medium eller high.
+En af det helt særlig ting ved denne gamer laptop er dens turbo mode som hjælper med at afkøle laptopen hvis du har gamet i lang tid.
 
-Alt i alt kan denne gamer bærbare klart anbefales hvis du leder efter en billig gamer laptop som også kan spille spil i høj kvalitet. 
+Alt i alt et bæst af en gamer laptop og givet du får et af de nyeste grafik kort og prisen stadig ligger under 10000 er det fra vores side et kæmpe steal. 
+
 
 ## Specs
 
 Full HD Skærm (1920 x 1080) <br>
-Ryzen 5 4600H / 2.9 GHz<br>
-NVIDIA GeForce RTX 2060 <br>
+Core i5 11400H / 2.7 GHz<br>
+NVIDIA GeForce RTX 3050 Ti <br>
 Hukommelse: 16 GB RAM <br>
 Lagerkapacitet:  512 GB SSD <br>
 
 #### Fordele
 
 - Godt keyboard
-- Robust design
-- 120hz skærmoplysning
+- Turbo mode
+- 120hz skærmopløsning
 
 #### Ulemper
 
-- Mouse pad er lavet af plastik
+- En smule støj når du tænder for turbo mode
 
 ### Videoanmeldelse
 
