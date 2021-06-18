@@ -1,9 +1,9 @@
 ---
-title: Bedste Budget Gamer Bærbar 2020
+title: Bedste Billig Gamer Laptop 2021
 cover: 01-acer-nitro-5-an517-51-56yw.jpg
 ---
 
-Selvom der kun er 2 måned tilbage af 2020 har vi her på siden valgt at komme med vi med vores bud på den bedste budget gamer bærbar i år.
+Her er vores bud på en billig gamer laptop der stadig kan trække de fleste AAA spil med god fps og samtidig få god grafik. 
 
 ## Acer Nitro 5
 

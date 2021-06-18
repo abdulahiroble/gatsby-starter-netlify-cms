@@ -93,7 +93,7 @@ På venstre side finder du 2x USB Type A, Ethernet og et 3.5 mm headphone jack.
 
 Gamer laptopen er udstyret med en 11 generation i5 processor og RTX 3050 Ti som er en af de nyeste grafik kort fra Nvidia.
 
-Derudover har gamer bærbaren en 144 Hz skærm oplysning som giver en bedre spiloplevelse. 
+Derudover har gamer bærbaren en 144hz skærm oplysning som giver en bedre spiloplevelse. 
 
 En af det helt særlig ting ved denne gamer laptop er dens turbo mode som hjælper med at afkøle laptopen hvis du har gamet i lang tid.
 
