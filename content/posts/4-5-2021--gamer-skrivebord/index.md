@@ -40,7 +40,7 @@ USB RGB LightPack er inkluderet <br>
 
 - Bordet kan ikke justeres
 
-### Videoanmeldelse
+### Videopræsentation
 
 <div style="position: relative
         paddingBottom: 56.25% /* 16:9 */,
