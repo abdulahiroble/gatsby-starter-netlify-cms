@@ -7,40 +7,38 @@ cover: jura-greyling-Cemd5VAvXVc-unsplash.jpg
 
 ![Play M8 Gaming Elite V2](/play-m8-gaming-elite.jpg)
 
-Play M8 Gaming Elite V2 er en god billig gamer bærbar for dig som gerne vil bruge den til dagligt forbrug og samtidig få god performance når det kommer til gaming.
+Play M8 Gaming Elite V2 er en perfekt gamer skrivebord for dig som gerne vil værdi for pengene. 
 
-En af de ting man først ting man lægger mærke til med laptopen er dens hængsel som giver muligheden for at den kan blive stillet på en 180°C vinkel. 
+Gamer skrivebordet er udstyret med RGB lys så du har mulighed for at skifte til den farve du synes passer bedste til dit setup.
 
-Gamer laptopen har et robust design og den sorte matte-black farve er en fryd for øjnene. Dertil har laptopen lenovos logo som skifter farve
-når du vender laptopen til siden. 
+Den har en firkantet design med en længde på 140 cm og en bredde på 65 cm så der er god plads til din gamer laptop og andet tilbehør.
 
-Keyboardet har en god følighed når du taster på den og så har den desuden led løs som er et nich touch.
+Dertil har gamer skrivebord en sort musemåtte med flot aluminiumsramme. 
 
-En af det helt store ting ved denn gamer bærbar er dens skærm. 
+Gamer skrivbordet kan holde på en vægt på max 75 kg. 
 
-Den har nemlig en skærmoplysning på 120hz som giver en bedre gaming oplevelse fordi opdateringshastigheden er hurtigere.
+Selve bordpladen er lavet af FSC certificeret træ så du kan regne med at bordet er af høj kvalitet.
 
-Når det kommer til spil kan Lenovo legion 5 trækker de fleste AAA spil med god FPS hvis du sætter indstillinger til medium eller high.
+Der medfølger også et kabelbakke så du har mulighed for bedre at kunne organiserer dine kabler så det ikke blive viklet sammen.
 
-Alt i alt kan denne gamer bærbare klart anbefales hvis du leder efter en billig gamer laptop som også kan spille spil i høj kvalitet. 
 
-## Specs
+## Detaljer
 
-Full HD Skærm (1920 x 1080) <br>
-Ryzen 5 4600H / 2.9 GHz<br>
-NVIDIA GeForce RTX 2060 <br>
-Hukommelse: 16 GB RAM <br>
-Lagerkapacitet:  512 GB SSD <br>
+140 x 65 cm størrelse (længde x dybde) <br>
+Kabelstyring under bordet<br>
+Vægt på 75 kg <br>
+musemåtte inkluderet <br>
+USB RGB LightPack er inkluderet <br>
 
 #### Fordele
 
-- Godt keyboard
-- Robust design
-- 120hz skærmoplysning
+- Musemåtte har en perfekt pasform til bordet
+- RGB farver kan customizes
+- Kabelbakke til organisering af kabler
 
 #### Ulemper
 
-- Mouse pad er lavet af plastik
+- Bordet kan ikke justeres
 
 ### Videoanmeldelse
 
@@ -76,7 +74,7 @@ allowfullscreen></iframe>
 
 <br><br>
 
-# 2. Arozzi Arena Gaming Desk
+<!-- # 2. Arozzi Arena Gaming Desk
 
 ![Arozzi Arena Gaming Desk](/arozzi-arena-gaming-desk.jpg)
 
@@ -170,25 +168,14 @@ Når det kommer til spil kan Lenovo legion 5 trækker de fleste AAA spil med god
 
 Alt i alt kan denne gamer bærbare klart anbefales hvis du leder efter en billig gamer laptop som også kan spille spil i høj kvalitet. 
 
-## Specs
+## Detaljer
 
-Full HD Skærm (1920 x 1080) <br>
-Ryzen 5 4600H / 2.9 GHz<br>
-NVIDIA GeForce RTX 2060 <br>
-Hukommelse: 16 GB RAM <br>
-Lagerkapacitet:  512 GB SSD <br>
-
-#### Fordele
-
-- Godt keyboard
-- Robust design
-- 120hz skærmoplysning
-
-#### Ulemper
-
-- Mouse pad er lavet af plastik
-
-### Videoanmeldelse
+140 x 65 cm størrelse (længde x dybde) <br>
+Kabelstyring under bordet<br>
+Vægt på 75 kg <br>
+musemåtte inkluderet <br>
+USB RGB LightPack er inkluderet <br>
+### Video
 
 <div style="position: relative
         paddingBottom: 56.25% /* 16:9 */,
@@ -220,4 +207,4 @@ allowfullscreen></iframe>
 	text-shadow:0px 1px 0px #2f6627;" >Køb - Paracon SPAWN </a>
 </div>
 
-<br><br>
+<br><br> -->
