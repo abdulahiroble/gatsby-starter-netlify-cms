@@ -22,7 +22,7 @@ Selve bordpladen er lavet af FSC certificeret træ så du kan regne med at borde
 Der medfølger også et kabelbakke så du har mulighed for bedre at kunne organiserer dine kabler så det ikke blive viklet sammen.
 
 
-## Detaljer
+## Specifikationer
 
 140 x 65 cm størrelse (længde x dybde) <br>
 Kabelstyring under bordet<br>
@@ -38,7 +38,7 @@ USB RGB LightPack er inkluderet <br>
 
 #### Ulemper
 
-- Bordet kan ikke justeres
+- Skrivebordet kan ikke justeres
 
 ### Videopræsentation
 
@@ -74,44 +74,42 @@ allowfullscreen></iframe>
 
 <br><br>
 
-<!-- # 2. Arozzi Arena Gaming Desk
+# 2. Arozzi Arena Gaming Desk
 
-![Arozzi Arena Gaming Desk](/arozzi-arena-gaming-desk.jpg)
+![Arozzi Arena Gaming Desk](/arozzi-arena-gaming-desk-metal-pure-black.jpg)
 
-Arozzi Arena Gaming Desk er en god billig gamer bærbar for dig som gerne vil bruge den til dagligt forbrug og samtidig få god performance når det kommer til gaming.
+Arozzi Arena Gaming Desk er en gamer skrivebord de fleste sikkert allerede kender.
 
-En af de ting man først ting man lægger mærke til med laptopen er dens hængsel som giver muligheden for at den kan blive stillet på en 180°C vinkel. 
+Og med god grund da gamer skrivebordet er en af de bedste på markedet. 
 
-Gamer laptopen har et robust design og den sorte matte-black farve er en fryd for øjnene. Dertil har laptopen lenovos logo som skifter farve
-når du vender laptopen til siden. 
+Denne model som kaldes pure black er for dig som går efter det mere enklere design i form af at der kun er en farve fremfor flere forskellige farver og mønstre.
 
-Keyboardet har en god følighed når du taster på den og så har den desuden led løs som er et nich touch.
+Arozzis gamer skriveborde plejer ellers at være kendt for deres farverige designs for ikke at tale om deres iøjnefaldende røde logo.
 
-En af det helt store ting ved denn gamer bærbar er dens skærm. 
+Hvorimod dette skrivebord har en stilren sort farve som giver et afdæmpet atmosfære rent synsmæssigt.
 
-Den har nemlig en skærmoplysning på 120hz som giver en bedre gaming oplevelse fordi opdateringshastigheden er hurtigere.
+Dertil er skrivebordet formet som en halvmåne som gør det mere at række ud hvis man har flere ting på bordet såsom et ektra skærm eller
+et ekstra keyboard.
 
-Når det kommer til spil kan Lenovo legion 5 trækker de fleste AAA spil med god FPS hvis du sætter indstillinger til medium eller high.
+Musemåtten er også water prop så hvis du nogensinde spilder en energi drik ud over dit gamer skrivebord er der intet at bekymre sig om da det hurtigt kan rengøres.
 
-Alt i alt kan denne gamer bærbare klart anbefales hvis du leder efter en billig gamer laptop som også kan spille spil i høj kvalitet. 
+## Specifikationer
 
-## Specs
-
-Full HD Skærm (1920 x 1080) <br>
-Ryzen 5 4600H / 2.9 GHz<br>
-NVIDIA GeForce RTX 2060 <br>
-Hukommelse: 16 GB RAM <br>
-Lagerkapacitet:  512 GB SSD <br>
+Mål: 160 x 82 x 81cm <br>
+Vægt: 38,8kg<br>
+Kapacitet op til 80kg<br>
 
 #### Fordele
 
-- Godt keyboard
-- Robust design
-- 120hz skærmoplysning
+- Minimalistisk design
+- Hele overfladen er en musemåtte 
+- Halvmåne design 
+- Musemåtte er waterprof
 
 #### Ulemper
 
-- Mouse pad er lavet af plastik
+- Skrivebordets højde kan ikke justeres
+- Kan slingre en smule
 
 ### Videoanmeldelse
 
@@ -125,7 +123,7 @@ Lagerkapacitet:  512 GB SSD <br>
           left: 0,
           width: 100%,
           height: 100%"
-src="https://www.youtube.com/embed/7TcS6uB9FZU" SameSite=None
+src="https://www.youtube.com/embed/kcgrZTdnkU8" SameSite=None
 frameborder="0" 
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
@@ -147,7 +145,7 @@ allowfullscreen></iframe>
 
 <br><br>
 
-# 3. Paracon SPAWN
+<!-- # 3. Paracon SPAWN
 
 ![Paracon SPAWN](/paracon-spawn.jpg)
 
