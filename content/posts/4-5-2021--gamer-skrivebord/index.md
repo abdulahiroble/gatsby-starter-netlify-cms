@@ -145,34 +145,34 @@ allowfullscreen></iframe>
 
 <br><br>
 
-<!-- # 3. Paracon SPAWN
+# 3. Paracon SPAWN
 
 ![Paracon SPAWN](/paracon-spawn.jpg)
 
-Paracon SPAWN er en god billig gamer bærbar for dig som gerne vil bruge den til dagligt forbrug og samtidig få god performance når det kommer til gaming.
+Paracon SPAWN er gamer skrivebordet for dig som søger efter det ultimative gamer station.
 
-En af de ting man først ting man lægger mærke til med laptopen er dens hængsel som giver muligheden for at den kan blive stillet på en 180°C vinkel. 
+Det har nemlig mange gode fordele. Blandt andet har gamer skrivebordet en hæve/sænke funktion. 
 
-Gamer laptopen har et robust design og den sorte matte-black farve er en fryd for øjnene. Dertil har laptopen lenovos logo som skifter farve
-når du vender laptopen til siden. 
+Så hvis du nogensinde bliver træt af at sidde ned har du
+muligheden for at justere skrivebordet så du kan stå op.
 
-Keyboardet har en god følighed når du taster på den og så har den desuden led løs som er et nich touch.
+For ikke at nævne dens indbyggede kopholder og headsetholder som gør denne gamer skrivebord mere unik. 
 
-En af det helt store ting ved denn gamer bærbar er dens skærm. 
+Dertil er hele bordpladen en stor musemåtte hvilket er et plus hvis du eksempelvis sidder midt i en spil session og du er
+ved at løbe tør for musemåtte på de mest afgørende tidspunkter. 
 
-Den har nemlig en skærmoplysning på 120hz som giver en bedre gaming oplevelse fordi opdateringshastigheden er hurtigere.
+Selve stellet er lavet udfra solidt aluminium så du kan regne med et bord som vil hamle op til de mest intense gaming sessioner.  
 
-Når det kommer til spil kan Lenovo legion 5 trækker de fleste AAA spil med god FPS hvis du sætter indstillinger til medium eller high.
+Gamer skrivebordet er også udstyret med en kabelbakke som gør du bedre kan holde styr på dine kabler så de ikke bliver viklet sammen.
 
-Alt i alt kan denne gamer bærbare klart anbefales hvis du leder efter en billig gamer laptop som også kan spille spil i høj kvalitet. 
+## Specifikationer
 
-## Detaljer
-
-140 x 65 cm størrelse (længde x dybde) <br>
-Kabelstyring under bordet<br>
-Vægt på 75 kg <br>
-musemåtte inkluderet <br>
-USB RGB LightPack er inkluderet <br>
+Aluminiumsramme <br>
+Elektrisk hæve/sænke-funktion<br>
+To elektriske motorer <br>
+Bordhøjde mellem 73 cm og 124 cm <br>
+Bordplade på 66 cm x 144 cm <br>
+Aftagelig og udskiftelig musemåtte, der dækker hele bordpladen <br>
 ### Video
 
 <div style="position: relative
@@ -205,4 +205,6 @@ allowfullscreen></iframe>
 	text-shadow:0px 1px 0px #2f6627;" >Køb - Paracon SPAWN </a>
 </div>
 
-<br><br> -->
+<br><br>
+
+<a href="https://www.bedstegamerlaptop.dk/bedste-gamer-baerbar/" target="_blank">Check også vores bud på de bedste gamer bærbar i 2021</a>
