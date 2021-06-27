@@ -1,5 +1,5 @@
 ---
-title: Bedste Gamer Skrivebord 2021
+title: Bedste Gamer Bord 2021
 cover: jura-greyling-Cemd5VAvXVc-unsplash.jpg
 ---
 
@@ -7,7 +7,7 @@ cover: jura-greyling-Cemd5VAvXVc-unsplash.jpg
 
 ![Play M8 Gaming Elite V2](/play-m8-gaming-elite.jpg)
 
-Play M8 Gaming Elite V2 er en perfekt gamer skrivebord for dig som gerne vil værdi for pengene. 
+Play M8 Gaming Elite V2 er en perfekt gamer bord for dig som gerne vil værdi for pengene. 
 
 Gamer skrivebordet er udstyret med RGB lys så du har mulighed for at skifte til den farve du synes passer bedste til dit setup.
 
@@ -78,7 +78,7 @@ allowfullscreen></iframe>
 
 ![Arozzi Arena Gaming Desk](/arozzi-arena-gaming-desk-metal-pure-black.jpg)
 
-Arozzi Arena Gaming Desk er en gamer skrivebord de fleste sikkert allerede kender.
+Arozzi Arena Gaming Desk er en gamer bord de fleste sikkert allerede kender.
 
 Og med god grund da gamer skrivebordet er en af de bedste på markedet. 
 
@@ -151,7 +151,7 @@ allowfullscreen></iframe>
 
 Paracon SPAWN er gamer skrivebordet for dig som søger efter det ultimative gamer station.
 
-Det har nemlig mange gode fordele. Blandt andet har gamer skrivebordet en hæve/sænke funktion. 
+Det har nemlig mange gode fordele. Blandt andet har gamer bordet en hæve/sænke funktion. 
 
 Så hvis du nogensinde bliver træt af at sidde ned har du
 muligheden for at justere skrivebordet så du kan stå op.
